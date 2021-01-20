@@ -1,0 +1,1735 @@
+accommodates,neighbourhood_group_cleansed,property_type,room_type,guests_included,bathrooms,bedrooms,beds,bed_type,amenities,cleaning_fee,minimum_nights,maximum_nights,instant_bookable,price
+4,Beacon Hill,9,Entire home/apt,2,1,2,2,4,689,85,3,300,1,134.5403
+4,Lake City,9,Entire home/apt,1,1,1,2,4,936,40,2,1125,1,126.238686
+2,Northgate,1,Entire home/apt,1,1,1,1,4,1460,150,5,120,0,179.07257
+2,Downtown,1,Entire home/apt,1,1,1,1,4,883,75,1,30,0,155.44864
+2,Other neighborhoods,11,Private room,1,1,1,1,4,569,0,1,3,0,55.337162
+6,Queen Anne,18,Entire home/apt,6,1,2,3,4,528,77,1,28,0,197.55344
+4,Northgate,11,Entire home/apt,1,1,1,1,4,984,30,2,1125,0,98.61984
+6,Downtown,7,Entire home/apt,6,1,2,3,4,326,135,1,365,1,173.13847
+8,Other neighborhoods,11,Entire home/apt,1,2,3,4,4,560,99,2,1124,0,205.53549
+5,Lake City,11,Private room,2,1,1,3,4,1354,15,1,93,1,98.43188
+3,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,1091,30,1,5,1,84.283165
+1,Capitol Hill,11,Shared room,1,1,1,1,4,1577,15,1,21,1,36.457592
+2,Other neighborhoods,1,Entire home/apt,2,1,1,1,4,366,25,2,14,1,94.086586
+4,Other neighborhoods,11,Entire home/apt,1,1,1,2,4,558,70,30,1125,1,142.74478
+4,Central Area,1,Entire home/apt,1,1,2,2,4,167,65,3,30,1,130.70866
+5,Downtown,1,Entire home/apt,1,2,2,3,4,913,150,2,1125,0,258.5657
+2,Downtown,1,Private room,1,1,0,1,4,143,75,30,365,0,136.76144
+4,Other neighborhoods,1,Entire home/apt,1,1,1,2,4,630,65,1,1125,0,108.6482
+5,Downtown,1,Entire home/apt,1,2,2,3,4,913,150,4,1125,0,254.53111
+2,Capitol Hill,11,Private room,1,1,1,1,4,324,30,1,1125,1,71.56436
+4,West Seattle,11,Entire home/apt,2,1,2,5,4,193,95,2,365,0,139.24365
+4,Delridge,11,Entire home/apt,2,1,0,1,4,577,48,1,15,1,93.56365
+5,Capitol Hill,1,Entire home/apt,1,1,1,3,4,1518,0,1,366,1,113.42385
+2,Queen Anne,11,Private room,1,2,1,1,4,81,25,1,21,1,71.72645
+4,Ballard,11,Entire home/apt,4,1,2,2,4,649,204,2,1125,1,164.7047
+6,Other neighborhoods,11,Entire home/apt,4,1,2,2,4,1077,75,1,14,0,145.42749
+2,Cascade,15,Entire home/apt,1,1,1,1,4,297,75,2,1125,1,129.39183
+6,Magnolia,11,Entire home/apt,6,2,2,2,4,1163,130,2,30,1,168.49991
+14,Other neighborhoods,11,Entire home/apt,14,3,6,8,4,359,350,1,1125,1,572.9978
+3,Capitol Hill,11,Entire home/apt,1,1,1,1,4,1485,40,2,30,0,101.59137
+2,Queen Anne,11,Private room,1,2,1,1,4,75,25,1,21,1,71.72645
+2,Downtown,7,Entire home/apt,1,1,0,1,3,537,80,2,1125,0,141.48828
+2,Central Area,9,Entire home/apt,2,1,0,1,4,608,40,1,1125,1,118.43848
+4,Downtown,7,Entire home/apt,2,1,1,1,4,620,100,2,1125,0,338.49658
+4,Other neighborhoods,11,Entire home/apt,2,1,1,2,4,1264,40,2,120,1,98.7679
+2,Delridge,11,Private room,1,1,1,1,4,1449,40,1,14,0,46.450226
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1582,65,2,30,1,119.40619
+6,Other neighborhoods,11,Entire home/apt,5,1,3,4,4,1455,25,2,1125,0,142.27803
+2,Cascade,15,Entire home/apt,1,1,1,1,4,297,75,2,1125,1,129.39183
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1255,20,3,5,0,111.35479
+6,Ballard,11,Entire home/apt,2,2,3,4,4,1032,100,2,31,1,189.2065
+6,Ballard,18,Entire home/apt,1,2,3,3,4,858,295,3,1124,1,180.85707
+4,Beacon Hill,11,Entire home/apt,1,1,2,2,4,1129,50,2,1125,1,118.107735
+6,Cascade,18,Entire home/apt,6,2,3,3,4,575,138,2,29,0,229.94202
+1,University District,11,Shared room,1,3,1,1,4,1549,75,4,90,0,56.205593
+2,Other neighborhoods,18,Private room,1,1,1,1,0,126,25,1,1125,0,52.670708
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1107,25,2,14,1,111.26517
+4,Magnolia,18,Entire home/apt,2,2,2,2,4,1015,80,2,30,0,192.91635
+2,Queen Anne,9,Entire home/apt,1,1,1,1,4,430,35,2,1125,1,96.14774
+2,Queen Anne,11,Private room,1,2,1,2,4,1578,20,1,21,1,78.643394
+6,Interbay,3,Entire home/apt,1,1,1,3,4,772,25,1,8,1,93.87465
+5,Downtown,1,Entire home/apt,1,1,1,1,4,1574,40,1,21,1,122.9754
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,762,50,1,30,1,130.36336
+3,Downtown,1,Entire home/apt,2,1,0,1,4,753,89,2,1125,1,147.1354
+3,Queen Anne,1,Entire home/apt,1,1,1,1,4,879,60,1,1125,0,108.04515
+3,Downtown,7,Entire home/apt,2,1,0,2,4,846,65,2,7,0,147.68768
+4,Beacon Hill,5,Entire home/apt,1,1,1,2,4,362,93,2,28,1,118.28683
+8,Beacon Hill,18,Entire home/apt,1,2,3,4,4,471,150,2,29,1,274.3565
+4,Northgate,11,Entire home/apt,3,1,3,3,4,253,40,2,31,1,104.83039
+3,Capitol Hill,10,Entire home/apt,2,1,1,2,4,408,50,1,30,1,126.252625
+13,Central Area,18,Entire home/apt,6,3,3,7,4,200,150,1,365,1,370.66824
+3,Delridge,11,Private room,1,1,1,1,4,399,25,1,30,1,52.002995
+16,Ballard,18,Entire home/apt,8,2,4,7,4,279,160,1,1124,1,330.70215
+2,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,1096,35,1,1125,0,83.68141
+6,Other neighborhoods,1,Entire home/apt,4,1,2,4,4,564,65,2,20,1,160.03346
+2,Other neighborhoods,1,Entire home/apt,2,1,1,1,4,168,65,2,1124,1,104.38917
+2,Queen Anne,1,Entire home/apt,1,1,1,1,4,1324,50,2,12,1,146.4577
+4,Magnolia,11,Entire home/apt,2,1,1,2,4,1111,28,1,1125,0,94.29713
+3,Downtown,1,Entire home/apt,2,1,1,1,4,599,89,2,1125,1,247.42513
+2,Magnolia,18,Private room,2,1,1,1,4,1346,0,2,1125,1,93.019806
+2,Lake City,11,Private room,1,1,1,1,4,38,15,1,1125,0,55.217487
+4,West Seattle,18,Entire home/apt,1,1,1,2,4,506,0,2,30,1,119.06167
+4,Other neighborhoods,1,Entire home/apt,2,1,0,2,4,25,60,2,1125,1,110.77798
+2,Other neighborhoods,13,Entire home/apt,2,1,1,1,4,898,45,1,1125,1,90.82034
+3,Queen Anne,7,Entire home/apt,1,1,0,1,4,667,65,89,1125,0,91.3491
+2,Central Area,11,Private room,1,1,2,1,4,1561,25,3,366,0,75.673645
+4,Beacon Hill,1,Entire home/apt,1,1,0,3,4,1164,50,2,1125,0,105.042274
+5,Other neighborhoods,9,Entire home/apt,4,1,2,2,4,1247,55,2,100,0,160.50887
+1,Other neighborhoods,11,Shared room,1,3,1,1,4,51,75,4,1125,0,39.9321
+4,Downtown,7,Entire home/apt,4,1,0,2,4,922,75,2,30,1,124.33053
+4,Capitol Hill,1,Entire home/apt,1,1,1,2,4,163,95,1,365,0,117.31553
+2,Capitol Hill,9,Private room,1,1,0,1,4,947,0,2,6,1,77.69472
+2,Other neighborhoods,11,Entire home/apt,1,1,1,1,4,715,75,2,1125,0,124.459755
+2,Ballard,1,Entire home/apt,1,1,0,1,4,400,15,2,30,0,77.87439
+4,West Seattle,11,Entire home/apt,1,1,3,4,4,1457,0,2,2,0,177.4942
+4,Downtown,1,Entire home/apt,1,1,1,2,4,329,50,1,30,0,132.75925
+4,Downtown,1,Entire home/apt,2,1,1,2,4,842,125,2,1125,0,141.12329
+2,Downtown,1,Entire home/apt,1,1,1,1,4,546,10,1,30,1,144.3005
+2,Rainier Valley,11,Private room,1,1,1,1,4,878,20,1,30,1,46.56448
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,1024,100,2,1125,0,124.30347
+4,University District,1,Entire home/apt,1,1,1,2,4,272,60,1,1125,0,95.252396
+2,Ballard,18,Private room,1,1,1,1,4,1355,30,3,90,1,90.9297
+6,Queen Anne,11,Entire home/apt,6,2,3,3,4,465,150,2,27,1,253.6656
+6,West Seattle,9,Entire home/apt,4,1,2,4,4,1393,100,2,1125,0,154.8184
+3,Other neighborhoods,3,Entire home/apt,2,1,1,1,4,935,125,7,60,0,75.0178
+4,Northgate,11,Entire home/apt,1,1,2,2,4,1138,40,2,90,1,109.26127
+2,Downtown,1,Entire home/apt,1,1,1,1,4,914,75,30,1125,0,155.83978
+5,Central Area,11,Entire home/apt,4,1,4,3,4,999,75,3,30,1,152.3829
+4,Central Area,10,Entire home/apt,2,1,0,1,4,132,40,2,1124,1,87.102486
+6,Central Area,18,Entire home/apt,1,3,3,3,4,432,110,1,1125,0,271.3014
+2,Rainier Valley,11,Private room,1,1,1,1,4,1418,0,2,28,1,57.51052
+4,Delridge,11,Entire home/apt,2,2,2,2,4,1333,175,3,10,1,183.15561
+4,Delridge,9,Entire home/apt,2,1,1,2,4,795,50,2,30,1,86.79352
+4,Downtown,7,Entire home/apt,2,1,0,1,4,622,60,1,90,0,187.54488
+4,Rainier Valley,9,Entire home/apt,2,1,1,2,4,965,75,2,28,0,119.4592
+2,Central Area,15,Entire home/apt,1,1,1,1,4,1249,50,1,2,0,120.49665
+2,Central Area,7,Entire home/apt,1,1,1,1,4,1162,75,2,1125,1,126.130714
+4,Downtown,1,Entire home/apt,1,2,2,2,4,100,100,7,1125,0,359.58716
+10,University District,11,Entire home/apt,1,4,5,6,4,636,275,3,1124,1,482.05054
+2,Ballard,11,Entire home/apt,1,1,2,2,4,462,75,3,1125,1,137.68616
+4,Rainier Valley,11,Entire home/apt,2,1,2,2,4,887,75,2,30,0,126.78244
+4,Queen Anne,11,Private room,4,1,2,2,4,483,49,2,4,0,115.75605
+6,Downtown,7,Entire home/apt,1,2,2,3,4,328,49,1,1125,1,180.32996
+6,West Seattle,11,Entire home/apt,1,2,3,3,4,1059,200,30,65,0,255.08266
+3,Downtown,1,Entire home/apt,2,1,1,1,4,746,50,1,1125,0,160.25243
+4,Other neighborhoods,9,Entire home/apt,2,1,1,2,4,375,0,2,1125,0,118.78664
+4,West Seattle,11,Entire home/apt,2,1,2,2,4,127,90,2,65,0,114.14734
+3,Downtown,1,Entire home/apt,2,1,1,1,4,598,89,2,1125,1,247.42513
+4,Capitol Hill,1,Entire home/apt,1,1,1,1,4,166,99,1,1125,0,133.67146
+2,Capitol Hill,11,Private room,1,2,1,1,4,686,30,3,120,0,85.36291
+3,Other neighborhoods,11,Private room,2,1,1,2,2,55,80,3,1125,1,102.4997
+5,Other neighborhoods,11,Private room,2,1,2,3,4,1548,0,2,6,0,103.80325
+2,Central Area,11,Private room,1,1,1,1,4,1433,15,1,30,1,52.123516
+1,Other neighborhoods,11,Shared room,1,3,1,1,4,50,75,4,90,0,38.59913
+3,Beacon Hill,10,Entire home/apt,2,1,0,1,4,383,60,2,30,0,98.23327
+4,Downtown,1,Entire home/apt,2,1,1,1,4,289,49,3,60,0,151.61679
+2,Ballard,11,Private room,1,1,1,1,4,1345,60,1,1125,1,84.1857
+4,Central Area,9,Entire home/apt,2,1,1,2,4,1273,35,2,21,0,96.82363
+2,Central Area,1,Entire home/apt,1,1,0,1,4,1507,35,1,14,1,92.887405
+2,Central Area,1,Entire home/apt,2,1,1,1,4,39,15,2,1125,0,82.23437
+2,Downtown,1,Private room,2,1,1,1,4,402,25,1,10,1,150.7926
+8,Queen Anne,11,Entire home/apt,4,1,3,5,4,679,130,3,31,0,289.8911
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1302,75,5,1125,1,201.88583
+4,Downtown,1,Entire home/apt,1,1,0,1,4,1296,65,1,1125,1,126.70093
+5,Cascade,1,Entire home/apt,4,2,2,2,4,601,129,2,1125,1,249.9511
+4,Lake City,11,Entire home/apt,3,1,2,2,4,1066,100,1,1125,0,166.53458
+3,University District,1,Entire home/apt,1,1,0,1,4,196,60,2,1125,0,102.72257
+2,Seward Park,9,Entire home/apt,3,1,1,1,4,1192,40,1,1125,1,95.77578
+3,West Seattle,9,Entire home/apt,2,1,2,2,4,240,95,2,365,0,111.04679
+2,University District,11,Private room,4,1,1,1,4,418,25,1,45,1,76.44616
+4,Downtown,1,Entire home/apt,2,1,0,2,4,627,65,1,40,0,207.72565
+4,Delridge,18,Entire home/apt,1,2,3,3,4,1359,0,5,31,1,214.02753
+8,West Seattle,11,Entire home/apt,4,3,4,5,4,227,100,2,90,0,244.04288
+2,Queen Anne,11,Private room,1,1,1,1,4,80,20,1,21,1,64.133224
+4,Queen Anne,9,Entire home/apt,2,1,1,2,4,210,50,2,30,0,106.280945
+2,University District,11,Entire home/apt,1,1,0,1,4,1063,6,1,31,1,83.801605
+7,Ballard,11,Entire home/apt,5,1,3,4,4,561,100,3,28,0,200.25368
+2,West Seattle,9,Entire home/apt,1,1,1,2,4,778,85,2,30,1,106.1154
+5,Capitol Hill,1,Entire home/apt,4,2,2,2,4,753,129,21,1125,1,248.56009
+4,Capitol Hill,1,Entire home/apt,2,1,1,1,4,1106,85,2,10,1,145.943
+3,Downtown,1,Entire home/apt,2,1,0,1,4,745,89,2,1125,1,151.0592
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1447,39,7,1125,0,42.74278
+6,Downtown,1,Entire home/apt,1,1,2,4,4,393,135,3,1125,1,301.6587
+1,Downtown,7,Shared room,1,1,1,1,4,1586,0,1,3,0,72.056
+2,Queen Anne,10,Private room,1,1,1,1,3,625,0,2,31,0,149.00114
+3,Queen Anne,1,Private room,2,1,1,1,4,423,15,2,30,0,68.6302
+2,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,615,40,2,7,1,91.56112
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1306,75,3,1125,1,188.40402
+2,Capitol Hill,9,Entire home/apt,1,1,0,1,4,974,0,2,60,0,98.189415
+5,Northgate,1,Entire home/apt,2,1,1,3,4,442,40,1,30,1,91.81812
+5,West Seattle,1,Entire home/apt,1,1,2,3,4,801,90,1,1125,1,112.03102
+6,Downtown,1,Entire home/apt,6,2,2,4,4,768,145,1,365,1,329.2389
+6,Cascade,1,Entire home/apt,1,2,2,3,4,458,175,3,1125,0,305.98047
+2,Rainier Valley,11,Private room,1,1,1,1,4,1388,15,2,30,0,46.256542
+3,Beacon Hill,8,Entire home/apt,1,1,0,1,4,516,40,1,15,0,85.043686
+1,Capitol Hill,13,Entire home/apt,1,1,0,1,4,1554,0,1,1125,0,104.06916
+16,Capitol Hill,11,Entire home/apt,11,2,6,20,4,712,479,3,1124,0,513.3375
+4,Downtown,7,Entire home/apt,1,1,1,2,4,925,95,2,180,1,144.09077
+4,Capitol Hill,11,Entire home/apt,4,1,1,2,4,1428,75,1,20,0,145.0301
+4,Downtown,1,Entire home/apt,2,1,0,1,4,1225,65,2,1125,1,147.65234
+2,Central Area,7,Entire home/apt,1,1,1,1,4,325,99,30,1125,0,85.09022
+4,Other neighborhoods,11,Entire home/apt,1,1,2,2,4,216,90,3,60,0,115.64516
+2,Capitol Hill,1,Private room,1,1,0,1,4,932,57,7,14,1,73.997185
+7,Queen Anne,11,Entire home/apt,1,2,4,5,4,1041,164,2,28,1,339.38797
+3,Central Area,10,Entire home/apt,2,1,0,2,4,828,35,1,1125,1,85.336205
+4,Delridge,11,Entire home/apt,2,1,0,3,4,711,60,1,80,1,114.685295
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,942,35,1,14,1,147.907
+4,Other neighborhoods,11,Entire home/apt,2,1,2,0,4,219,100,2,1125,1,123.49244
+12,Queen Anne,11,Entire home/apt,10,3,5,7,4,410,245,2,100,1,380.08792
+2,Other neighborhoods,11,Private room,2,1,1,1,4,54,45,1,95,1,56.78618
+4,Beacon Hill,11,Entire home/apt,4,1,1,3,4,11,40,2,7,0,79.85171
+2,University District,11,Private room,1,1,1,1,4,1567,20,1,21,1,80.85579
+2,Downtown,13,Entire home/apt,1,1,1,1,4,882,100,2,1125,0,164.76035
+2,Central Area,11,Entire home/apt,1,1,1,1,4,1097,60,1,1125,0,101.706345
+4,Other neighborhoods,10,Entire home/apt,1,1,1,1,4,1075,45,1,30,1,93.56399
+2,University District,11,Private room,1,1,1,1,4,308,0,2,60,1,66.125175
+4,Other neighborhoods,11,Entire home/apt,1,3,3,0,4,285,100,5,1125,0,244.82796
+2,Capitol Hill,1,Private room,1,1,1,1,4,1521,0,1,28,0,86.361374
+3,Downtown,1,Entire home/apt,2,1,1,1,4,601,89,2,1125,1,247.42513
+8,West Seattle,11,Entire home/apt,1,2,4,4,4,345,150,2,1125,0,324.1114
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,267,35,2,90,1,82.78496
+4,Other neighborhoods,10,Entire home/apt,2,1,0,3,4,1383,35,1,14,1,80.15461
+2,West Seattle,2,Private room,2,1,1,3,4,940,0,2,1125,0,114.01042
+8,Other neighborhoods,11,Entire home/apt,7,2,4,4,4,1160,120,2,1125,1,236.47697
+2,Cascade,1,Entire home/apt,1,1,0,1,4,1315,50,1,21,1,131.80731
+2,Magnolia,18,Private room,1,1,1,1,4,419,15,1,30,1,68.34009
+2,Other neighborhoods,11,Private room,1,2,2,1,4,1411,0,2,7,1,79.72172
+5,Other neighborhoods,9,Entire home/apt,1,1,2,2,4,496,170,2,1125,1,148.78973
+5,Ballard,1,Entire home/apt,2,1,1,3,4,972,50,2,1125,0,120.068756
+5,Queen Anne,18,Entire home/apt,1,2,2,3,4,807,99,2,21,0,315.02087
+10,Other neighborhoods,11,Entire home/apt,4,1,3,3,4,444,125,1,1125,1,224.16644
+3,Downtown,1,Entire home/apt,2,1,1,1,4,752,89,2,1125,1,175.23964
+6,Other neighborhoods,9,Entire home/apt,1,1,2,3,4,1191,60,1,7,0,116.86035
+2,Ballard,18,Private room,1,1,1,1,4,1545,30,3,90,0,72.54495
+3,Capitol Hill,9,Entire home/apt,2,1,0,1,4,930,40,1,90,1,102.991035
+8,Other neighborhoods,11,Entire home/apt,2,1,3,5,4,1037,225,1,29,0,267.86804
+2,Cascade,15,Entire home/apt,1,1,1,1,4,294,75,2,1125,1,129.39183
+2,Capitol Hill,13,Entire home/apt,2,1,1,1,4,1276,100,2,60,1,130.7904
+2,Other neighborhoods,1,Entire home/apt,1,1,1,0,4,1248,25,1,1125,1,92.38839
+4,Seward Park,1,Entire home/apt,2,1,1,2,4,979,50,3,1125,1,116.61122
+4,West Seattle,11,Entire home/apt,2,1,1,2,4,348,64,2,1125,1,122.4876
+5,Ballard,11,Entire home/apt,1,1,2,2,4,980,150,3,28,0,171.68785
+4,Capitol Hill,11,Private room,2,1,1,2,4,662,0,1,14,0,119.96514
+2,Capitol Hill,11,Private room,1,2,1,1,4,590,15,3,30,1,93.035484
+2,Queen Anne,7,Private room,1,1,1,1,4,1102,0,1,90,0,87.35739
+4,Rainier Valley,11,Entire home/apt,4,2,2,2,4,819,50,2,14,1,228.2129
+4,Lake City,9,Entire home/apt,2,1,1,2,4,130,60,2,60,0,136.13899
+2,West Seattle,11,Private room,2,1,1,1,4,1377,25,1,1125,0,74.58883
+3,Ballard,10,Entire home/apt,2,1,1,2,4,16,50,3,150,0,110.76341
+4,Other neighborhoods,9,Entire home/apt,4,1,2,2,4,274,50,2,1125,0,166.3024
+2,Ballard,3,Private room,1,1,1,2,4,1090,0,1,3,0,67.50897
+5,University District,1,Entire home/apt,2,1,0,1,4,90,25,1,1125,0,95.78461
+3,Queen Anne,1,Entire home/apt,1,1,1,1,4,1228,100,1,89,1,166.86882
+4,Queen Anne,1,Entire home/apt,2,1,1,2,4,1212,60,1,1125,1,129.39792
+2,Central Area,18,Private room,2,1,1,1,4,954,25,1,5,0,68.87451
+4,Other neighborhoods,11,Entire home/apt,1,2,2,2,4,377,159,3,31,1,201.31187
+1,Northgate,11,Private room,1,0,1,1,4,481,60,7,1125,0,30.791065
+4,Downtown,1,Entire home/apt,4,1,1,1,4,742,85,1,1125,1,173.561
+2,Central Area,1,Entire home/apt,1,1,1,1,4,867,20,2,30,1,87.52224
+2,Lake City,11,Private room,1,1,1,1,4,1391,0,1,1125,1,100.10995
+2,Other neighborhoods,11,Private room,1,1,1,1,4,617,30,2,1125,1,74.6914
+4,Capitol Hill,1,Entire home/apt,1,1,1,2,4,555,50,2,30,0,118.61441
+5,Other neighborhoods,11,Entire home/apt,1,1,2,3,4,641,60,4,31,0,123.33681
+2,Ballard,9,Entire home/apt,1,1,0,1,4,854,50,3,60,0,102.28661
+12,Queen Anne,11,Entire home/apt,2,2,5,6,4,1175,175,2,1125,0,388.42535
+2,Central Area,9,Entire home/apt,1,1,1,1,4,282,50,3,1123,1,103.763565
+2,Capitol Hill,0,Private room,1,1,1,1,4,70,0,1,1125,1,67.05442
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1308,75,2,1125,1,190.9993
+7,Delridge,10,Entire home/apt,4,1,2,4,4,215,80,1,2,1,160.65399
+5,Downtown,1,Entire home/apt,4,2,2,2,4,752,129,2,1125,1,350.95996
+2,Capitol Hill,9,Entire home/apt,1,1,1,1,4,976,45,2,1125,1,96.48482
+5,West Seattle,18,Entire home/apt,5,2,2,2,4,862,255,2,14,0,226.72574
+2,Capitol Hill,9,Entire home/apt,2,1,1,1,4,1415,30,1,1125,0,103.736496
+2,Other neighborhoods,11,Entire home/apt,1,1,0,1,4,82,50,3,1125,1,101.23114
+3,Magnolia,8,Entire home/apt,1,1,1,1,4,1531,0,3,1125,0,109.26985
+2,Downtown,13,Entire home/apt,2,1,1,1,4,1286,100,3,60,1,219.9001
+2,Ballard,1,Entire home/apt,1,1,0,1,4,1293,0,2,5,1,97.67615
+6,Rainier Valley,11,Entire home/apt,4,2,3,3,4,1017,120,2,29,0,222.86472
+2,Capitol Hill,1,Entire home/apt,2,1,0,1,0,1330,0,28,1125,0,94.056175
+4,Other neighborhoods,11,Entire home/apt,1,2,3,2,4,1360,200,7,365,0,160.92235
+6,West Seattle,11,Entire home/apt,6,2,3,3,4,124,283,2,1125,1,165.50716
+6,Central Area,18,Entire home/apt,2,1,1,1,4,1143,120,5,1000,0,349.04938
+7,Other neighborhoods,11,Entire home/apt,3,1,2,4,4,852,50,2,1125,0,147.36125
+8,West Seattle,11,Entire home/apt,8,2,3,5,4,140,215,1,365,1,332.00153
+2,Downtown,1,Entire home/apt,2,1,0,1,4,431,50,3,1125,0,164.43114
+6,Rainier Valley,11,Entire home/apt,4,3,3,4,4,1153,75,4,20,1,248.73212
+3,Downtown,1,Entire home/apt,2,1,1,1,4,743,89,2,1125,1,179.16344
+4,Other neighborhoods,9,Entire home/apt,2,1,2,2,4,421,50,2,30,1,121.19269
+2,Rainier Valley,4,Private room,1,1,1,1,4,1541,50,1,29,0,88.225296
+2,Rainier Valley,11,Private room,1,1,1,1,4,944,0,1,7,1,51.496407
+2,Other neighborhoods,11,Entire home/apt,1,1,1,1,4,94,35,1,14,1,75.17534
+6,Other neighborhoods,11,Entire home/apt,6,2,3,4,4,501,185,6,90,0,222.87411
+2,Delridge,11,Entire home/apt,1,1,1,1,4,1473,100,3,1125,0,84.27401
+1,Beacon Hill,1,Private room,1,1,1,1,3,1281,30,3,1125,0,85.93907
+12,Other neighborhoods,11,Entire home/apt,12,3,4,9,4,791,100,1,1125,1,205.21861
+6,Central Area,1,Entire home/apt,1,2,3,4,4,122,190,3,1124,1,247.28925
+14,Northgate,11,Entire home/apt,1,2,4,7,4,23,180,1,1125,0,426.3198
+4,Ballard,11,Entire home/apt,2,1,2,2,4,1054,40,1,1125,1,107.36713
+2,Cascade,18,Private room,1,1,1,1,4,340,0,2,1125,1,180.81944
+6,Other neighborhoods,11,Entire home/apt,6,2,3,4,4,688,100,2,1125,0,202.37
+2,Downtown,1,Entire home/apt,1,1,1,1,4,4,100,28,1125,0,317.0137
+6,Other neighborhoods,18,Entire home/apt,4,2,2,2,4,1442,100,1,1125,0,171.97519
+2,Capitol Hill,0,Private room,1,1,0,1,4,72,0,1,1125,1,64.14948
+1,Other neighborhoods,11,Private room,1,2,1,1,4,1144,15,5,1125,0,74.23752
+2,Other neighborhoods,11,Private room,1,1,1,2,4,1547,20,2,150,1,58.527718
+4,Ballard,1,Entire home/apt,2,1,2,2,4,872,175,2,1125,0,142.46535
+6,Central Area,18,Entire home/apt,1,1,2,2,4,113,80,1,1125,1,135.98723
+2,West Seattle,9,Entire home/apt,1,1,0,2,4,1030,35,2,30,1,81.98555
+2,Beacon Hill,18,Private room,1,1,1,1,4,33,30,30,300,0,55.42235
+4,Other neighborhoods,11,Entire home/apt,2,2,2,2,4,438,125,5,45,0,161.47571
+3,Downtown,1,Entire home/apt,1,1,1,1,4,892,60,2,1125,1,169.97098
+5,Capitol Hill,11,Entire home/apt,3,1,1,4,4,618,52,7,7,0,224.56464
+2,Rainier Valley,11,Private room,2,1,1,1,4,812,15,1,100,1,46.674435
+2,Ballard,1,Entire home/apt,2,1,1,1,4,520,65,3,1125,1,115.41453
+6,Northgate,11,Entire home/apt,1,2,3,3,4,672,170,3,1125,0,281.64056
+3,Beacon Hill,9,Entire home/apt,2,1,1,2,4,870,55,2,1125,0,105.28856
+2,Northgate,11,Private room,1,1,1,1,4,44,0,1,1125,1,64.55554
+2,Ballard,11,Entire home/apt,2,1,1,1,4,676,40,1,30,1,87.602776
+2,Central Area,11,Private room,1,1,1,1,4,726,19,3,29,0,71.05613
+6,Downtown,1,Entire home/apt,2,1,2,2,4,525,120,3,88,0,204.4862
+1,Cascade,1,Private room,1,1,1,1,4,30,20,1,1,0,167.65634
+3,Downtown,1,Entire home/apt,2,1,1,1,4,9,68,2,1125,1,147.39206
+4,Beacon Hill,10,Entire home/apt,1,1,1,1,4,469,50,3,1124,1,116.80262
+6,Beacon Hill,11,Entire home/apt,4,2,4,4,4,1002,100,2,1125,0,145.02933
+2,Downtown,1,Entire home/apt,1,1,1,1,4,548,50,1,6,1,173.52863
+4,West Seattle,1,Entire home/apt,2,1,1,1,4,186,125,7,1125,1,179.38689
+1,Beacon Hill,11,Private room,1,1,1,1,4,1086,10,2,100,0,54.787674
+7,West Seattle,11,Entire home/apt,1,2,3,4,4,1123,135,1,1125,1,199.55377
+2,Downtown,7,Private room,1,1,1,1,4,157,45,3,29,1,88.28141
+4,Downtown,7,Entire home/apt,1,0,1,2,4,2,0,1,28,0,144.00772
+2,Delridge,18,Private room,1,1,1,1,4,1152,25,1,1125,0,53.715656
+6,Capitol Hill,18,Entire home/apt,5,2,3,3,4,381,217,2,1125,0,259.63577
+2,Central Area,7,Entire home/apt,1,1,1,1,4,1193,0,30,1125,0,109.866066
+5,Other neighborhoods,9,Entire home/apt,2,1,2,3,4,588,59,2,27,0,130.1893
+2,Central Area,10,Entire home/apt,2,1,1,1,4,634,50,2,30,1,119.709496
+4,Capitol Hill,1,Entire home/apt,2,1,0,2,4,978,65,1,120,1,119.306335
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,753,89,21,1125,1,163.10098
+2,Other neighborhoods,11,Private room,1,1,1,1,4,860,25,1,14,1,53.591534
+10,Seward Park,11,Entire home/apt,1,2,4,5,4,309,300,5,7,0,538.46436
+2,Cascade,1,Entire home/apt,2,1,1,1,4,1209,45,1,29,1,135.21744
+5,Cascade,1,Entire home/apt,4,2,2,2,4,601,129,2,1125,1,249.9511
+6,Rainier Valley,11,Entire home/apt,4,1,2,3,4,26,0,2,360,0,154.18425
+3,Capitol Hill,1,Entire home/apt,1,1,0,1,4,1320,0,1,15,0,106.63052
+8,Delridge,11,Entire home/apt,4,1,3,5,4,988,70,1,1125,0,129.1568
+4,Central Area,11,Entire home/apt,2,1,1,2,4,733,50,2,8,0,111.68026
+6,Other neighborhoods,1,Entire home/apt,4,1,2,2,4,223,50,1,1125,0,144.78992
+3,Rainier Valley,11,Private room,3,1,1,2,4,855,9,1,100,1,40.120678
+2,University District,11,Private room,1,1,1,1,4,1482,40,1,1125,1,72.40674
+6,Other neighborhoods,11,Entire home/apt,1,2,3,3,4,1139,100,2,8,1,215.53543
+2,West Seattle,11,Entire home/apt,1,1,1,1,4,490,75,2,1125,1,114.98321
+2,Downtown,7,Entire home/apt,1,1,0,1,4,536,75,1,90,0,118.99055
+10,Capitol Hill,7,Entire home/apt,6,2,3,6,4,487,125,2,29,0,326.214
+4,Other neighborhoods,4,Entire home/apt,4,1,2,2,4,983,160,2,60,0,133.2582
+4,Downtown,1,Entire home/apt,1,1,1,2,4,414,85,3,60,0,177.20535
+4,Central Area,7,Entire home/apt,3,2,2,2,4,1088,225,30,365,1,152.98471
+3,Cascade,1,Entire home/apt,2,1,1,1,4,601,89,2,1125,1,202.6356
+2,Other neighborhoods,4,Entire home/apt,1,1,0,2,4,657,75,2,29,0,117.17208
+8,Other neighborhoods,11,Entire home/apt,4,1,3,4,4,450,60,2,1000,0,131.3168
+2,Northgate,11,Private room,1,1,1,2,4,1352,0,1,7,1,205.17787
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,519,70,2,1125,1,117.69138
+7,Downtown,1,Entire home/apt,7,2,3,4,4,317,109,1,365,1,780.73914
+5,Downtown,1,Entire home/apt,4,1,2,2,4,743,129,2,1125,1,240.0472
+4,Cascade,7,Entire home/apt,1,1,2,2,4,1476,40,2,1125,1,126.49434
+4,Rainier Valley,9,Entire home/apt,2,1,1,2,4,1372,10,2,30,0,87.81804
+4,Other neighborhoods,9,Entire home/apt,1,1,1,2,4,635,40,2,90,0,109.47324
+4,Cascade,1,Entire home/apt,1,2,2,2,4,563,125,3,1125,1,237.40173
+4,Queen Anne,7,Entire home/apt,4,1,1,2,4,822,50,3,60,0,125.054565
+7,Queen Anne,1,Entire home/apt,2,1,2,4,4,1235,103,2,1125,0,205.32407
+6,Central Area,11,Entire home/apt,3,2,2,3,4,817,125,14,180,0,178.21661
+4,West Seattle,11,Entire home/apt,4,2,2,2,4,224,263,2,1125,1,182.66151
+4,Delridge,18,Entire home/apt,4,2,2,2,4,1363,75,2,5,0,199.414
+2,Capitol Hill,2,Private room,1,1,1,1,4,612,0,1,14,1,105.06619
+2,Downtown,1,Entire home/apt,1,1,1,1,4,848,100,30,1125,0,192.71375
+2,Cascade,1,Entire home/apt,1,1,1,1,4,720,165,30,1125,0,129.72992
+2,Central Area,15,Entire home/apt,1,1,0,1,4,1250,65,1,1125,1,115.803986
+6,Queen Anne,11,Private room,2,1,2,3,4,341,72,2,28,1,121.236664
+4,Delridge,9,Private room,1,1,0,2,4,953,25,1,1125,1,42.515472
+1,Capitol Hill,11,Shared room,1,1,1,1,4,1574,15,1,21,1,36.457592
+3,Downtown,1,Entire home/apt,2,1,1,1,4,747,89,2,1125,1,175.23964
+1,Downtown,1,Entire home/apt,1,1,1,1,4,1307,75,5,1125,0,185.9468
+2,Other neighborhoods,9,Entire home/apt,1,1,0,1,4,869,75,1,1125,1,98.27387
+1,Central Area,11,Entire home/apt,1,1,1,1,4,1204,85,14,120,0,90.4112
+4,Downtown,1,Entire home/apt,1,2,2,2,4,1342,100,14,1125,0,252.98657
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1481,20,1,1125,1,60.00235
+2,University District,1,Entire home/apt,1,1,1,1,4,29,30,2,72,0,82.80574
+5,University District,1,Entire home/apt,1,1,1,2,4,1236,70,1,1125,0,114.8214
+3,Downtown,1,Entire home/apt,2,1,1,1,4,598,89,2,1125,1,247.42513
+5,Other neighborhoods,11,Entire home/apt,5,1,2,2,4,244,200,2,180,1,152.54944
+6,Other neighborhoods,11,Entire home/apt,6,2,3,5,4,225,254,2,1125,1,160.29692
+2,Cascade,1,Entire home/apt,1,1,0,1,4,1287,50,1,1125,1,139.72481
+3,Capitol Hill,1,Entire home/apt,1,1,1,2,4,1364,89,2,1125,0,156.77443
+5,Ballard,11,Entire home/apt,1,1,3,3,4,1430,0,1,1125,0,119.59048
+6,Northgate,1,Entire home/apt,1,1,2,2,4,1079,0,5,63,1,142.69792
+2,Other neighborhoods,9,Entire home/apt,2,1,0,2,4,522,50,2,8,1,96.96849
+2,Other neighborhoods,18,Entire home/apt,1,1,1,1,4,876,30,2,30,1,90.08544
+2,Downtown,1,Entire home/apt,2,1,1,1,4,915,68,2,28,1,153.52968
+2,Central Area,11,Private room,1,1,1,1,4,952,50,2,14,0,86.23886
+6,Rainier Valley,11,Entire home/apt,4,2,3,3,4,364,25,3,1125,0,207.87372
+5,Other neighborhoods,18,Entire home/apt,5,1,3,4,4,816,80,2,1125,1,167.55052
+13,University District,11,Entire home/apt,8,3,5,9,4,455,300,3,1125,0,560.56866
+2,Downtown,1,Entire home/apt,1,1,0,1,4,65,40,1,21,1,106.35774
+4,Rainier Valley,18,Entire home/apt,4,1,2,2,4,1211,80,3,10,0,170.27608
+4,Other neighborhoods,11,Entire home/apt,2,1,2,3,4,638,70,2,10,1,129.2735
+2,Cascade,15,Entire home/apt,1,1,1,1,4,294,75,2,1125,1,129.39183
+2,Rainier Valley,8,Entire home/apt,1,1,0,1,4,472,30,1,20,1,79.01195
+1,Other neighborhoods,11,Shared room,1,3,1,1,4,51,75,4,1125,0,39.9321
+2,Capitol Hill,9,Entire home/apt,3,1,1,1,4,453,60,1,1125,1,141.01578
+4,Downtown,1,Entire home/apt,4,1,0,2,4,629,110,2,90,1,435.08582
+4,Capitol Hill,1,Entire home/apt,2,1,1,2,4,1544,25,3,10,0,111.23355
+3,Cascade,9,Entire home/apt,1,1,1,2,4,436,40,2,8,0,135.14763
+4,Downtown,1,Entire home/apt,1,1,1,2,4,334,99,2,1125,1,886.1895
+4,Northgate,9,Entire home/apt,1,1,1,2,4,212,75,2,1125,1,106.735176
+3,Downtown,1,Entire home/apt,2,1,1,1,4,745,89,2,1125,1,179.16344
+2,Capitol Hill,10,Entire home/apt,1,1,1,1,4,117,40,2,1125,1,91.62061
+2,West Seattle,9,Entire home/apt,1,1,0,1,4,1182,75,2,1125,0,114.41219
+2,Capitol Hill,0,Private room,1,1,0,1,4,71,0,1,1125,1,64.14948
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,1142,50,1,1125,1,158.24431
+2,Cascade,15,Entire home/apt,1,1,1,1,4,302,75,2,1125,1,129.39183
+2,Beacon Hill,11,Private room,1,1,1,1,4,45,0,1,5,0,59.968674
+1,University District,11,Private room,1,1,1,1,4,79,20,1,21,1,56.776546
+3,University District,1,Entire home/apt,1,1,0,1,4,1238,65,1,1125,0,104.2927
+2,Capitol Hill,11,Private room,1,1,1,1,4,1567,25,1,21,1,74.26788
+2,Central Area,1,Entire home/apt,2,1,0,1,4,1571,100,1,14,1,143.84981
+2,Delridge,18,Private room,1,1,1,1,4,683,25,1,30,0,62.31217
+3,Downtown,1,Entire home/apt,2,1,1,1,4,599,89,2,1125,1,247.42513
+8,Queen Anne,11,Entire home/apt,1,3,4,4,4,1092,150,3,21,0,407.425
+4,Queen Anne,1,Entire home/apt,4,1,2,3,4,493,111,2,180,0,161.15256
+2,Other neighborhoods,1,Entire home/apt,1,1,0,1,4,416,35,1,14,0,70.98702
+4,Rainier Valley,9,Entire home/apt,1,1,2,2,4,1407,50,1,7,0,113.39215
+4,Capitol Hill,9,Entire home/apt,2,1,1,2,4,756,60,2,10,0,126.61794
+3,Northgate,10,Entire home/apt,2,1,0,2,4,639,65,2,365,0,105.90337
+2,Capitol Hill,11,Private room,1,1,1,1,4,1574,20,1,21,1,73.76864
+6,Central Area,18,Entire home/apt,6,2,2,3,4,875,160,2,90,1,229.32417
+4,Downtown,1,Entire home/apt,4,2,2,2,4,1341,100,14,1125,0,267.59952
+1,West Seattle,7,Private room,1,1,1,1,4,1581,25,1,1125,0,62.781437
+6,Other neighborhoods,15,Entire home/apt,1,3,3,3,4,413,0,1,1125,1,213.5487
+4,Central Area,11,Entire home/apt,1,1,2,2,4,1311,25,2,2,0,103.58268
+4,Ballard,13,Entire home/apt,2,1,0,1,4,718,50,2,29,0,128.61208
+3,Downtown,1,Entire home/apt,2,1,1,1,4,599,89,2,1125,1,247.42513
+2,West Seattle,11,Private room,2,1,1,1,4,37,0,1,1125,1,79.07931
+4,Ballard,1,Entire home/apt,1,1,1,2,4,1530,85,2,1125,1,140.30869
+6,Other neighborhoods,9,Entire home/apt,1,1,2,3,4,956,50,1,14,0,109.63315
+3,Other neighborhoods,11,Private room,1,2,1,1,4,1486,25,1,365,1,70.08331
+6,Beacon Hill,1,Entire home/apt,2,2,3,3,4,1001,215,3,1125,0,197.76422
+2,Cascade,15,Entire home/apt,1,1,1,1,4,306,75,2,1125,1,129.39183
+3,Downtown,1,Entire home/apt,2,1,1,1,4,747,89,2,1125,1,175.23964
+5,West Seattle,11,Private room,2,2,1,2,4,660,30,2,1125,0,137.302
+3,Central Area,9,Entire home/apt,2,1,0,1,4,1200,75,1,1125,1,132.47804
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,919,30,1,20,1,101.767715
+6,Other neighborhoods,1,Entire home/apt,3,1,2,3,4,1161,143,2,185,1,142.65532
+2,Cascade,15,Entire home/apt,1,1,1,1,4,306,75,1,1125,1,111.816925
+3,Downtown,1,Entire home/apt,2,1,1,1,4,745,89,2,1125,1,179.16344
+2,West Seattle,11,Private room,2,1,1,1,4,716,15,2,1125,1,68.75222
+6,Downtown,7,Entire home/apt,2,1,1,3,4,880,70,1,1124,1,138.53838
+2,Central Area,11,Private room,1,1,1,1,4,184,20,1,31,0,59.48829
+4,Ballard,9,Entire home/apt,1,1,0,2,4,1312,65,2,60,0,106.72937
+7,Rainier Valley,11,Entire home/apt,2,1,2,2,4,1052,40,2,1125,1,108.590294
+6,Other neighborhoods,11,Entire home/apt,1,2,3,3,4,239,90,1,1125,0,157.16783
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,1443,15,1,1125,1,78.409584
+4,Other neighborhoods,6,Entire home/apt,1,1,0,1,4,1452,0,1,4,1,103.77266
+2,Downtown,1,Entire home/apt,1,1,2,2,4,550,50,2,10,1,226.25658
+2,Beacon Hill,11,Private room,1,1,1,1,4,1435,15,2,26,1,56.09557
+3,Rainier Valley,11,Private room,1,1,1,2,4,1535,25,1,14,0,57.73816
+2,Downtown,1,Entire home/apt,1,1,1,1,4,914,75,28,1125,0,149.56573
+4,Downtown,1,Entire home/apt,1,1,1,2,4,332,99,2,1125,1,886.1895
+2,Queen Anne,11,Private room,2,1,1,1,4,810,60,1,1125,1,86.64164
+6,Central Area,18,Entire home/apt,1,2,2,2,4,1512,35,3,1125,1,173.77429
+6,Ballard,1,Entire home/apt,1,2,2,3,4,1131,50,2,1125,1,201.27882
+4,Beacon Hill,11,Entire home/apt,2,1,1,2,4,1174,85,1,14,1,123.86645
+4,West Seattle,11,Entire home/apt,1,1,2,2,4,943,75,1,1125,0,122.718994
+2,Delridge,18,Private room,2,1,1,1,4,1509,20,2,5,0,58.288677
+3,Central Area,9,Entire home/apt,1,1,1,2,4,1203,50,1,1125,1,118.01404
+2,Capitol Hill,18,Private room,1,1,1,1,4,1322,25,2,7,1,84.508675
+2,Capitol Hill,1,Private room,1,1,1,1,4,624,0,3,1125,0,148.55608
+1,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1288,30,1,180,1,105.453186
+2,Other neighborhoods,7,Entire home/apt,1,1,1,1,4,1098,100,7,120,0,78.53088
+2,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,1489,50,2,1125,1,100.45101
+2,Central Area,11,Private room,1,1,1,1,4,1406,20,1,20,1,68.8077
+2,Capitol Hill,9,Entire home/apt,1,1,1,1,4,1424,40,1,7,1,96.47728
+2,Cascade,15,Entire home/apt,1,1,1,1,4,299,75,2,1125,1,129.39183
+11,Capitol Hill,18,Entire home/apt,6,2,3,6,4,201,150,1,365,1,322.8507
+4,Other neighborhoods,9,Entire home/apt,2,1,1,2,4,1266,30,1,45,1,97.65766
+2,Delridge,9,Entire home/apt,2,1,0,2,4,800,20,1,29,0,65.78399
+12,Central Area,11,Entire home/apt,1,2,4,5,4,1050,165,1,200,1,368.53134
+2,Queen Anne,11,Private room,1,1,1,1,4,43,0,1,4,1,67.59281
+2,Downtown,1,Entire home/apt,2,1,1,1,4,1295,75,30,1125,0,176.66945
+3,Delridge,10,Private room,7,1,1,2,4,834,100,1,31,1,64.71281
+8,West Seattle,11,Entire home/apt,6,1,2,3,4,460,60,3,1125,0,159.14917
+2,Ballard,1,Entire home/apt,1,1,0,1,4,1487,40,2,31,1,84.49515
+3,Downtown,1,Entire home/apt,2,1,0,1,4,1229,65,2,1125,1,143.68102
+3,Downtown,1,Entire home/apt,2,1,1,1,4,602,89,2,1125,1,247.42513
+3,Downtown,15,Entire home/apt,2,1,1,1,4,150,75,2,1125,1,114.44686
+1,Ballard,11,Private room,1,0,1,2,4,1513,75,30,1125,0,34.80089
+20,Central Area,11,Entire home/apt,10,3,5,10,4,108,200,1,365,1,608.31384
+6,Downtown,7,Entire home/apt,1,2,2,5,4,158,90,3,29,1,241.29742
+6,Central Area,11,Entire home/apt,4,2,2,4,4,8,125,3,120,0,225.26677
+5,Downtown,1,Entire home/apt,4,2,2,2,4,752,139,2,1125,1,320.91782
+2,Delridge,9,Entire home/apt,1,1,1,1,4,1506,0,1,7,1,87.6074
+3,Beacon Hill,9,Entire home/apt,3,0,2,2,4,1020,25,1,100,1,79.69906
+2,Magnolia,8,Private room,1,1,1,1,4,725,15,1,30,0,82.43756
+4,Other neighborhoods,1,Entire home/apt,1,1,2,2,4,1021,35,1,1125,1,105.47117
+3,Downtown,1,Entire home/apt,2,1,0,1,4,745,89,2,1125,1,151.0592
+2,Beacon Hill,11,Private room,1,1,1,1,4,661,10,2,1125,1,75.373825
+4,Delridge,9,Entire home/apt,2,1,1,2,4,1009,55,2,29,1,91.278725
+6,Other neighborhoods,11,Entire home/apt,6,2,3,6,4,115,328,2,1125,1,160.71733
+4,Northgate,11,Entire home/apt,2,1,2,3,4,495,125,2,120,0,151.38031
+3,Downtown,1,Entire home/apt,2,1,1,1,4,744,89,2,1125,1,179.16344
+3,Downtown,1,Entire home/apt,2,1,1,1,4,600,89,2,1125,1,247.42513
+6,Other neighborhoods,11,Entire home/apt,4,1,3,3,4,360,175,7,150,0,298.55902
+2,Capitol Hill,9,Private room,1,1,1,1,4,1414,30,1,1125,0,74.315125
+4,Magnolia,11,Entire home/apt,4,1,1,2,4,189,99,1,180,1,194.74376
+2,Beacon Hill,18,Private room,2,1,1,1,4,1150,0,2,29,0,85.20864
+4,Other neighborhoods,1,Entire home/apt,1,1,2,2,4,1177,75,2,40,1,153.75299
+3,Seward Park,10,Entire home/apt,1,1,0,1,4,182,35,1,21,0,81.94344
+4,Rainier Valley,9,Entire home/apt,2,1,1,2,4,996,40,1,16,0,89.1039
+4,Downtown,1,Entire home/apt,2,1,0,2,4,1528,50,1,1123,1,137.23764
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,893,60,2,10,1,121.34792
+4,Downtown,7,Entire home/apt,1,1,1,2,4,841,115,3,60,1,148.5795
+2,Central Area,9,Private room,2,1,1,1,4,424,60,3,90,1,90.747055
+4,Other neighborhoods,1,Entire home/apt,2,1,1,2,4,313,60,2,1125,1,119.74843
+3,Downtown,1,Entire home/apt,2,1,1,1,4,753,89,2,1125,1,175.23964
+5,Other neighborhoods,1,Entire home/apt,4,1,1,2,4,354,50,1,1125,0,147.28528
+5,Downtown,1,Entire home/apt,1,2,2,3,4,316,99,2,1125,1,899.9664
+6,Other neighborhoods,11,Entire home/apt,6,2,3,3,4,859,175,3,90,0,264.80856
+20,Queen Anne,11,Entire home/apt,10,3,5,5,4,631,200,1,365,1,435.82898
+3,Cascade,15,Entire home/apt,2,1,1,1,4,151,75,2,1125,1,142.05199
+4,Other neighborhoods,9,Entire home/apt,2,1,1,2,4,1246,60,2,35,0,113.20879
+6,Central Area,13,Entire home/apt,2,1,0,3,4,741,60,2,30,0,107.00102
+6,Other neighborhoods,11,Entire home/apt,4,2,2,4,4,794,90,2,21,1,175.98083
+1,Central Area,1,Private room,1,1,1,1,4,428,0,2,14,1,78.45671
+2,Downtown,1,Private room,1,1,1,1,4,1336,0,2,1125,0,147.14494
+7,West Seattle,11,Entire home/apt,4,2,3,4,4,208,150,3,120,1,257.3899
+2,Downtown,1,Entire home/apt,1,1,0,2,4,1526,75,2,30,1,148.84569
+3,Central Area,1,Entire home/apt,2,1,1,1,4,721,60,2,30,0,129.08061
+2,Cascade,3,Entire home/apt,1,1,1,1,4,1216,40,2,90,1,138.68185
+4,Seward Park,1,Entire home/apt,2,1,1,2,4,137,55,2,1125,1,113.99021
+2,Ballard,11,Private room,1,1,1,1,4,831,0,2,5,0,86.35702
+1,Delridge,11,Private room,1,1,1,1,4,1515,15,6,90,1,24.399792
+2,Central Area,11,Entire home/apt,2,1,0,1,4,1083,20,2,1125,0,92.01515
+6,Other neighborhoods,1,Entire home/apt,3,1,2,2,4,1118,60,2,1125,0,120.942184
+4,Ballard,1,Entire home/apt,2,1,1,2,4,262,65,3,1125,0,111.18071
+1,Capitol Hill,11,Private room,1,1,1,1,4,254,0,2,30,0,69.178604
+2,Rainier Valley,10,Private room,1,1,1,1,4,489,25,2,21,0,56.85159
+2,Rainier Valley,13,Entire home/apt,1,1,0,1,4,287,85,4,28,0,98.87518
+3,Beacon Hill,1,Entire home/apt,1,1,1,1,4,1114,85,3,1125,0,135.76012
+4,Downtown,1,Entire home/apt,2,1,1,1,4,704,30,1,32,1,138.9239
+10,Central Area,11,Entire home/apt,1,3,5,6,4,646,250,3,1125,1,395.37814
+2,Rainier Valley,9,Entire home/apt,1,1,0,1,4,1401,45,2,1125,1,87.22025
+2,Ballard,10,Entire home/apt,1,1,1,1,4,804,50,2,7,1,105.13051
+3,Other neighborhoods,11,Entire home/apt,2,1,1,2,4,681,60,2,1125,1,115.16712
+8,Capitol Hill,11,Entire home/apt,1,1,4,4,4,1113,200,3,1125,0,277.76205
+4,Capitol Hill,1,Entire home/apt,4,1,2,2,4,544,120,4,21,0,126.230934
+2,Delridge,10,Entire home/apt,1,1,1,1,4,1147,40,2,1125,1,73.04012
+3,Downtown,1,Entire home/apt,2,1,1,1,4,602,89,2,1125,1,247.42513
+4,West Seattle,9,Entire home/apt,2,1,1,2,4,1081,75,2,1125,0,140.22227
+4,Magnolia,1,Entire home/apt,1,1,1,3,4,995,0,1,1125,1,111.51346
+3,Other neighborhoods,9,Entire home/apt,4,1,1,2,4,387,90,2,29,1,131.16608
+4,Lake City,9,Entire home/apt,2,1,1,0,4,1074,50,3,10,1,130.18665
+2,Northgate,9,Private room,1,1,1,1,4,1390,30,2,31,1,56.512814
+4,Other neighborhoods,1,Entire home/apt,2,1,1,2,2,723,25,2,28,1,113.65094
+2,Queen Anne,9,Entire home/apt,1,1,1,1,4,1403,50,1,1125,1,119.38697
+3,Downtown,1,Entire home/apt,2,1,1,1,4,602,89,2,1125,1,247.42513
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,1262,40,1,1125,1,96.91522
+2,Beacon Hill,11,Private room,1,1,1,1,4,792,0,1,30,1,84.4551
+2,West Seattle,18,Private room,1,1,1,1,4,808,25,1,10,0,67.150024
+2,Queen Anne,1,Entire home/apt,1,1,0,1,4,268,30,3,1125,1,85.16453
+4,Beacon Hill,11,Entire home/apt,2,1,2,2,4,1178,45,1,14,1,94.582405
+4,Other neighborhoods,1,Entire home/apt,2,1,1,2,4,757,75,2,1125,0,133.0267
+4,Central Area,9,Entire home/apt,2,1,1,2,4,1011,75,1,21,0,126.8047
+1,Other neighborhoods,18,Private room,1,1,1,1,4,837,50,2,1125,1,66.78377
+2,Downtown,13,Entire home/apt,2,1,0,1,4,584,80,2,120,1,232.95995
+3,Queen Anne,1,Entire home/apt,2,1,1,1,4,553,55,1,30,1,107.21283
+1,Central Area,18,Private room,1,1,1,1,4,1516,15,1,1125,0,58.232597
+7,Downtown,7,Entire home/apt,1,2,2,2,4,174,115,1,1125,0,283.81458
+5,Cascade,1,Entire home/apt,1,1,1,3,4,1301,79,1,1125,1,177.23732
+3,Downtown,1,Entire home/apt,2,1,1,2,4,765,55,1,1124,1,164.8571
+10,Other neighborhoods,11,Entire home/apt,6,2,4,5,4,993,253,2,1125,1,269.20828
+4,University District,1,Entire home/apt,1,1,1,2,4,271,70,1,1125,1,99.61903
+5,Other neighborhoods,9,Entire home/apt,2,1,1,3,4,982,40,2,29,0,101.17336
+2,Cascade,18,Private room,2,1,1,1,4,1176,30,1,1000,0,104.594635
+4,Downtown,7,Entire home/apt,2,1,1,2,4,593,90,3,100,1,198.63693
+4,Downtown,7,Entire home/apt,2,1,0,2,4,74,50,1,1125,1,93.379135
+2,Central Area,11,Private room,1,1,1,1,4,761,45,3,1125,1,71.34928
+3,Delridge,9,Entire home/apt,2,1,1,1,4,534,40,2,120,0,73.116
+2,Queen Anne,1,Entire home/apt,1,1,0,1,4,907,40,1,21,1,88.54995
+3,Downtown,1,Entire home/apt,2,1,1,1,4,602,89,2,1125,1,247.42513
+2,Capitol Hill,11,Private room,1,3,1,1,4,1094,0,4,30,0,85.23436
+5,Ballard,8,Entire home/apt,4,1,1,3,4,1265,75,3,1125,1,157.56204
+4,Downtown,1,Entire home/apt,1,1,1,2,4,334,99,2,1125,1,886.1895
+4,Seward Park,11,Private room,2,1,2,2,4,1395,15,1,30,1,71.91123
+2,Delridge,10,Entire home/apt,1,1,1,1,4,281,25,3,15,0,81.40469
+2,Magnolia,18,Private room,1,1,1,1,4,1375,10,2,1125,0,71.44528
+4,Capitol Hill,18,Entire home/apt,4,2,2,2,4,457,125,1,20,0,183.30734
+2,Central Area,9,Entire home/apt,2,1,1,1,4,449,40,3,200,1,98.0865
+4,Downtown,13,Entire home/apt,2,1,0,1,4,702,85,2,1125,0,154.08298
+2,Queen Anne,1,Entire home/apt,1,1,1,1,4,924,0,5,1125,1,122.304634
+3,Capitol Hill,1,Entire home/apt,2,1,0,1,4,585,30,1,25,1,132.71332
+2,Magnolia,11,Private room,1,1,0,1,4,1068,26,1,60,0,67.61991
+10,Central Area,18,Entire home/apt,6,2,3,5,4,108,150,1,365,1,348.38034
+2,Downtown,7,Entire home/apt,2,1,1,2,4,1338,0,6,10,0,172.67969
+10,Beacon Hill,11,Entire home/apt,8,2,3,5,4,105,200,3,730,0,473.60025
+3,Downtown,1,Entire home/apt,2,1,1,1,4,745,89,2,1125,1,179.16344
+5,Downtown,1,Entire home/apt,4,2,2,2,4,917,125,30,1125,1,336.88815
+7,University District,18,Entire home/apt,4,1,2,4,4,229,60,2,365,1,150.5243
+4,Queen Anne,1,Entire home/apt,4,2,2,2,4,524,100,2,1124,1,269.1786
+3,Central Area,18,Entire home/apt,2,1,1,1,4,1536,15,1,30,1,98.20394
+2,Central Area,9,Entire home/apt,2,1,0,1,4,312,60,1,29,0,92.939476
+3,Other neighborhoods,1,Entire home/apt,2,1,1,1,4,1272,45,1,30,0,87.188805
+1,Rainier Valley,7,Private room,1,1,2,2,4,1284,10,2,21,1,71.557755
+4,Lake City,9,Entire home/apt,2,1,2,2,4,463,50,7,90,0,172.55229
+2,Downtown,1,Entire home/apt,1,1,1,1,4,914,75,30,1125,0,155.83978
+4,Seward Park,9,Entire home/apt,2,1,2,2,4,372,70,2,90,1,127.525505
+4,Ballard,11,Entire home/apt,4,1,2,2,4,651,204,2,1125,1,164.7047
+3,Central Area,9,Entire home/apt,2,1,1,1,4,1242,30,3,30,0,93.473465
+2,Queen Anne,1,Entire home/apt,2,1,1,1,4,280,50,7,365,1,113.5529
+2,Northgate,10,Entire home/apt,2,1,1,1,4,251,35,2,1125,0,78.155075
+4,Other neighborhoods,9,Entire home/apt,2,1,2,1,4,669,75,2,1125,0,148.41562
+3,Downtown,1,Entire home/apt,2,1,1,1,4,602,89,2,1125,1,247.42513
+2,Beacon Hill,11,Private room,1,1,1,1,4,829,0,2,90,1,86.02061
+3,Cascade,1,Entire home/apt,2,1,1,1,4,601,89,2,1125,1,202.6356
+2,Cascade,3,Entire home/apt,1,1,2,2,4,773,45,1,2,0,127.55541
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,902,50,1,1125,1,117.13929
+8,Other neighborhoods,11,Entire home/apt,1,2,3,4,4,665,100,1,365,0,289.32568
+3,Queen Anne,1,Entire home/apt,2,1,0,1,4,694,25,1,10,0,84.85586
+4,Downtown,13,Entire home/apt,3,1,0,2,4,307,50,1,1125,0,100.82038
+1,Downtown,13,Shared room,1,1,1,2,4,1237,35,30,180,0,41.36323
+6,Other neighborhoods,11,Entire home/apt,6,2,3,3,4,256,215,1,365,1,213.08029
+2,Central Area,1,Entire home/apt,1,1,1,1,4,1558,0,1,1125,1,105.60037
+3,Capitol Hill,1,Entire home/apt,3,1,1,2,4,751,30,2,31,1,112.86525
+6,Other neighborhoods,11,Entire home/apt,4,1,2,3,4,572,0,3,15,0,183.15292
+4,Delridge,10,Entire home/apt,1,1,1,2,4,1294,75,2,150,1,110.41667
+2,Other neighborhoods,11,Entire home/apt,2,1,1,1,4,621,0,2,1125,1,111.952835
+4,Downtown,1,Entire home/apt,2,1,1,1,4,847,120,2,21,1,156.48723
+2,Central Area,11,Private room,1,1,1,1,4,653,55,3,1125,0,94.156
+6,Downtown,1,Entire home/apt,1,1,2,4,4,147,135,3,1125,1,267.50772
+4,Capitol Hill,1,Entire home/apt,1,1,2,2,4,1226,150,1,89,1,196.25122
+5,Cascade,1,Entire home/apt,1,1,2,2,4,1555,50,3,30,1,139.59384
+4,Cascade,1,Entire home/apt,2,1,1,2,4,286,100,3,365,1,224.42557
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1397,20,1,2,1,37.849266
+4,Downtown,7,Entire home/apt,2,1,1,2,4,342,50,3,1125,1,170.78107
+2,Beacon Hill,16,Private room,1,1,1,1,4,827,30,1,20,0,72.64971
+4,Central Area,7,Entire home/apt,2,1,2,4,4,1196,80,1,1125,0,200.22916
+3,Downtown,1,Entire home/apt,1,1,0,1,4,1552,40,1,21,1,104.20171
+3,Lake City,11,Private room,1,1,1,2,4,1120,20,3,1125,0,63.22768
+2,Beacon Hill,11,Private room,1,1,1,1,4,1357,50,1,1125,1,105.48532
+4,Rainier Valley,9,Entire home/apt,2,1,1,2,4,668,16,1,25,0,79.18422
+3,Other neighborhoods,11,Entire home/apt,2,1,2,2,4,821,125,2,1125,1,96.076004
+2,Downtown,1,Entire home/apt,2,1,1,1,4,1295,75,30,1125,0,176.66945
+4,Other neighborhoods,18,Entire home/apt,1,2,2,2,4,1157,100,5,21,0,182.37015
+4,Capitol Hill,11,Entire home/apt,2,1,1,2,4,1412,50,2,1124,1,130.26103
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1560,75,3,1125,1,174.72119
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1303,75,3,1125,0,185.18686
+2,Downtown,7,Entire home/apt,2,1,1,1,4,526,45,3,31,1,135.9169
+4,Rainier Valley,1,Entire home/apt,4,1,2,2,4,378,100,2,1125,1,214.17265
+2,Lake City,9,Entire home/apt,2,1,1,1,4,776,30,1,1125,1,96.262596
+8,Rainier Valley,11,Entire home/apt,1,2,4,4,4,1115,70,2,1125,1,186.57106
+4,Beacon Hill,11,Entire home/apt,1,1,2,3,4,491,15,1,1125,1,81.39103
+6,Delridge,11,Entire home/apt,1,2,3,4,4,1136,100,2,31,1,191.22293
+6,Capitol Hill,11,Entire home/apt,4,1,3,3,4,155,300,4,10000,0,255.14313
+4,Capitol Hill,11,Entire home/apt,3,2,3,3,4,459,120,30,1124,0,230.81697
+2,Downtown,1,Entire home/apt,2,2,1,1,4,1,0,1,1125,1,165.38074
+4,Capitol Hill,1,Entire home/apt,1,1,1,2,4,165,95,2,1125,0,120.873726
+1,University District,11,Shared room,1,1,1,1,4,84,75,4,90,0,38.99201
+8,Ballard,18,Entire home/apt,8,2,3,5,4,153,195,1,365,1,335.80447
+4,West Seattle,11,Entire home/apt,4,2,2,2,4,527,120,2,21,1,168.53285
+6,Capitol Hill,11,Entire home/apt,4,3,2,2,4,1462,150,3,1125,0,256.28494
+2,Queen Anne,9,Entire home/apt,1,1,1,1,4,417,30,2,14,1,98.78818
+3,Lake City,9,Entire home/apt,1,1,0,1,4,566,30,1,20,1,92.50888
+3,Downtown,1,Entire home/apt,2,1,1,1,4,753,89,2,1125,1,175.23964
+2,Delridge,10,Entire home/apt,2,1,2,2,4,610,50,3,14,1,100.57696
+4,Beacon Hill,7,Entire home/apt,1,1,2,2,4,1339,200,3,1125,0,111.694016
+2,Cascade,15,Entire home/apt,1,1,1,1,4,321,75,2,1125,1,139.08174
+1,Capitol Hill,11,Shared room,1,0,1,1,4,49,75,4,1125,0,41.324924
+2,Queen Anne,18,Private room,1,1,1,1,4,1384,30,1,7,0,76.87011
+3,Other neighborhoods,9,Entire home/apt,3,1,1,1,4,1422,40,1,8,1,90.32587
+4,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1564,25,2,10,0,117.559586
+10,Other neighborhoods,11,Entire home/apt,1,3,4,5,4,1067,120,5,1125,0,482.58743
+2,Capitol Hill,11,Private room,1,2,1,1,4,589,15,3,30,1,93.035484
+3,Beacon Hill,11,Entire home/apt,3,1,2,2,4,771,150,3,1125,0,82.36874
+4,Central Area,11,Private room,2,1,1,2,4,53,40,2,14,0,72.88902
+4,Other neighborhoods,9,Entire home/apt,4,1,1,2,4,690,50,2,28,0,147.4832
+2,Other neighborhoods,5,Entire home/apt,1,1,1,1,4,1454,80,3,14,0,133.27632
+6,Central Area,11,Entire home/apt,4,1,2,3,4,1468,60,2,1125,0,134.23712
+2,Delridge,18,Private room,1,1,1,1,4,1417,0,1,7,1,55.881363
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,1268,35,3,59,0,82.00744
+8,Other neighborhoods,11,Entire home/apt,8,2,3,4,4,642,185,2,1125,1,248.45166
+4,Downtown,18,Entire home/apt,1,2,2,2,4,131,400,28,180,0,228.02751
+2,Other neighborhoods,11,Private room,3,1,1,1,4,427,30,1,1125,1,66.43326
+1,Rainier Valley,9,Private room,1,1,1,1,4,1380,0,1,1125,1,58.12365
+6,Cascade,12,Entire home/apt,6,1,2,3,4,1563,70,1,1125,1,152.63635
+6,Downtown,1,Entire home/apt,6,2,2,3,4,336,99,1,365,1,1004.95166
+5,Downtown,1,Entire home/apt,4,2,2,2,4,752,129,2,1125,1,350.95996
+4,Other neighborhoods,9,Entire home/apt,2,1,2,2,4,277,65,1,31,0,117.4762
+11,Northgate,11,Entire home/apt,6,2,3,5,4,1085,90,1,1125,1,213.938
+2,Capitol Hill,11,Entire home/apt,1,2,3,3,4,1025,0,120,220,0,192.30537
+4,Central Area,9,Entire home/apt,1,1,1,1,4,1275,0,1,1125,1,106.77048
+3,Downtown,1,Entire home/apt,2,1,1,1,4,747,89,2,1125,1,175.23964
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1159,70,3,1125,1,122.929634
+2,Ballard,18,Private room,1,1,1,1,4,1533,15,1,8,1,61.643322
+4,Magnolia,11,Entire home/apt,2,1,0,2,4,1479,25,1,10,0,86.80427
+4,West Seattle,9,Entire home/apt,2,1,2,3,4,185,70,2,30,1,127.16254
+2,Other neighborhoods,11,Private room,2,4,1,2,4,368,45,2,180,1,62.157234
+8,Central Area,11,Entire home/apt,1,2,3,4,4,350,120,2,1125,1,300.24448
+3,Downtown,1,Entire home/apt,2,1,0,1,4,745,89,2,1125,1,151.0592
+8,Capitol Hill,18,Entire home/apt,6,2,3,4,4,1056,200,2,1125,0,297.86023
+4,Downtown,7,Entire home/apt,1,1,1,1,4,391,71,1,28,1,148.39719
+1,Capitol Hill,18,Private room,1,1,1,1,4,63,0,30,120,1,49.181347
+2,Other neighborhoods,1,Private room,1,3,1,1,4,17,10,2,30,0,46.349075
+2,Other neighborhoods,11,Entire home/apt,2,1,1,1,4,1010,20,1,20,1,83.30968
+2,Other neighborhoods,18,Private room,1,1,1,1,4,708,50,1,1125,0,106.07427
+3,Capitol Hill,1,Entire home/apt,2,1,0,1,4,753,89,21,1125,1,153.77708
+3,Downtown,7,Entire home/apt,2,1,1,1,4,1227,55,3,1125,1,172.83409
+6,Downtown,1,Entire home/apt,1,2,2,3,4,911,100,1,1125,1,329.02335
+4,Capitol Hill,1,Entire home/apt,2,1,0,1,4,1367,0,2,1124,0,132.36966
+5,Lake City,1,Entire home/apt,4,2,2,3,4,682,80,3,88,0,207.30598
+3,Downtown,1,Entire home/apt,2,1,1,1,4,602,89,2,1125,1,247.42513
+4,Other neighborhoods,11,Entire home/apt,1,1,2,3,4,461,120,2,28,1,130.69919
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,782,50,1,1125,1,116.498665
+2,Downtown,1,Entire home/apt,2,1,1,1,4,766,85,1,1125,1,167.72418
+4,West Seattle,11,Entire home/apt,2,1,2,2,4,997,90,2,1125,0,117.709015
+3,Downtown,1,Entire home/apt,1,1,1,1,4,1573,20,2,1125,1,138.51297
+2,Lake City,11,Private room,1,2,1,1,4,1463,20,3,1125,0,55.648243
+3,West Seattle,1,Entire home/apt,1,1,0,1,4,1036,100,3,120,1,139.78545
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1230,45,2,1125,1,117.87595
+2,Capitol Hill,1,Private room,2,1,1,1,4,1282,40,2,30,0,103.52872
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1546,15,1,21,0,52.507076
+2,Cascade,15,Entire home/apt,1,1,1,1,4,297,75,2,1125,1,129.39183
+8,University District,9,Entire home/apt,1,2,4,4,4,217,75,3,1125,1,218.26115
+3,Downtown,1,Entire home/apt,2,1,1,2,4,1254,20,2,1125,1,142.25908
+2,University District,1,Entire home/apt,1,1,1,1,4,1271,50,2,1125,1,115.4855
+2,Cascade,12,Entire home/apt,2,1,1,1,4,1314,58,1,30,0,144.49767
+5,Downtown,1,Entire home/apt,4,2,2,3,4,916,75,30,1125,1,277.8909
+6,Rainier Valley,11,Private room,1,1,3,2,4,824,40,1,1125,1,101.35869
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1289,79,3,1125,1,194.55322
+2,Other neighborhoods,18,Private room,2,1,1,1,4,1188,25,1,365,1,67.937454
+2,Capitol Hill,1,Entire home/apt,2,1,0,1,4,545,50,3,1125,0,118.98898
+10,Other neighborhoods,11,Entire home/apt,8,2,3,6,4,199,115,1,1125,0,285.0686
+2,Downtown,1,Entire home/apt,2,1,1,2,4,88,10,2,1125,1,120.30495
+3,Beacon Hill,11,Private room,3,1,1,2,4,806,15,1,100,1,47.713737
+10,Capitol Hill,11,Entire home/apt,8,3,6,7,4,242,300,3,1125,0,599.50256
+2,Beacon Hill,18,Private room,1,1,1,1,4,1369,40,1,7,0,72.256775
+5,Downtown,1,Entire home/apt,1,1,1,3,4,10,40,1,21,1,105.879425
+2,West Seattle,4,Private room,2,1,1,1,4,1432,85,1,1125,0,98.56483
+10,Rainier Valley,1,Entire home/apt,6,2,3,3,4,1121,160,2,1125,0,379.79614
+6,Cascade,1,Entire home/apt,4,1,1,3,4,1127,100,5,1125,1,512.65204
+2,Beacon Hill,11,Private room,1,1,1,1,2,57,5,1,25,0,54.75792
+4,Rainier Valley,11,Entire home/apt,2,1,1,2,4,24,0,2,90,0,102.336555
+3,Delridge,11,Private room,2,1,1,1,4,473,15,1,1125,0,54.62757
+3,Downtown,1,Entire home/apt,2,1,0,1,4,921,50,1,30,1,121.65505
+3,Downtown,1,Entire home/apt,2,1,0,1,4,747,89,2,1125,1,147.1354
+3,Cascade,9,Entire home/apt,2,1,1,1,4,962,25,1,1125,1,114.42825
+2,Beacon Hill,11,Private room,1,1,1,1,4,221,25,2,24,1,54.418705
+4,Ballard,18,Entire home/apt,2,2,2,2,4,15,100,7,1125,0,130.71481
+3,Rainier Valley,11,Private room,2,2,1,2,4,367,30,1,30,1,69.24939
+5,Beacon Hill,9,Entire home/apt,1,1,1,2,4,1170,50,2,90,1,102.06343
+3,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,397,0,2,30,1,99.83026
+2,Delridge,9,Entire home/apt,1,1,1,1,4,964,30,2,1125,0,71.84379
+4,Northgate,11,Entire home/apt,1,1,2,2,4,1440,75,5,1125,0,173.86288
+2,West Seattle,18,Private room,1,2,1,1,4,283,24,1,1125,0,62.55841
+4,Other neighborhoods,11,Private room,2,1,2,2,4,1398,40,2,10,1,82.04143
+2,West Seattle,11,Entire home/apt,2,1,1,1,4,1071,45,2,1124,1,97.81024
+7,Queen Anne,1,Entire home/apt,1,2,3,4,4,1116,125,2,1125,1,302.08487
+4,Other neighborhoods,1,Entire home/apt,1,1,1,2,4,376,60,2,21,1,113.56299
+4,Other neighborhoods,9,Entire home/apt,1,1,2,2,4,1040,50,2,1125,1,122.989655
+2,Magnolia,18,Private room,2,1,1,1,4,1402,20,1,1125,0,82.433014
+2,Seward Park,1,Entire home/apt,2,1,1,1,4,529,75,25,1123,0,97.87491
+3,Other neighborhoods,11,Entire home/apt,2,1,1,1,4,783,35,2,25,0,84.45104
+4,Cascade,1,Entire home/apt,1,2,2,2,4,763,230,30,1125,0,163.70071
+2,Rainier Valley,8,Entire home/apt,2,1,1,1,4,1181,59,3,1125,0,108.723755
+4,Rainier Valley,1,Entire home/apt,1,1,1,2,4,1109,10,14,360,1,114.109795
+2,Downtown,7,Entire home/apt,2,1,1,1,4,47,198,2,1125,1,132.72998
+6,Other neighborhoods,11,Entire home/apt,2,1,2,4,4,1051,45,1,28,1,107.93953
+2,University District,1,Private room,1,1,1,1,4,1553,15,3,7,1,71.44902
+2,Downtown,1,Private room,1,1,1,1,4,412,5,1,15,1,157.0811
+8,Other neighborhoods,11,Entire home/apt,1,2,4,4,4,439,150,7,548,0,212.38226
+2,Rainier Valley,9,Entire home/apt,2,1,1,1,2,19,30,2,6,1,79.23891
+4,Other neighborhoods,9,Entire home/apt,1,1,1,2,4,1478,55,1,7,1,107.31991
+4,Other neighborhoods,1,Entire home/apt,2,1,2,3,4,1137,75,3,1125,1,180.21748
+3,Downtown,1,Entire home/apt,2,1,1,1,4,744,89,2,1125,1,179.16344
+3,Downtown,1,Entire home/apt,2,1,1,1,4,767,50,1,14,1,165.36546
+4,Other neighborhoods,1,Entire home/apt,1,1,1,2,4,511,30,2,30,0,87.50646
+3,University District,11,Shared room,1,3,1,3,4,1365,195,4,90,0,220.44919
+3,Capitol Hill,1,Entire home/apt,3,1,0,2,4,754,0,1,31,1,151.45062
+4,Other neighborhoods,1,Entire home/apt,2,1,1,2,4,805,100,2,21,0,105.48455
+2,Rainier Valley,18,Private room,1,1,1,1,4,1505,15,2,4,1,48.820354
+6,Ballard,18,Entire home/apt,4,1,2,4,4,121,35,1,1125,1,126.59249
+12,Queen Anne,11,Entire home/apt,10,1,4,8,4,477,195,4,18,0,472.27505
+3,Beacon Hill,10,Entire home/apt,2,1,1,2,4,900,60,2,1125,0,106.61535
+2,Cascade,15,Entire home/apt,1,1,1,1,4,296,75,2,1125,1,129.39183
+2,Capitol Hill,11,Private room,3,1,1,1,4,22,25,2,7,0,69.8766
+2,West Seattle,9,Entire home/apt,2,1,1,2,4,425,40,1,1125,0,92.665375
+2,Rainier Valley,10,Entire home/apt,2,1,0,1,4,663,45,2,62,0,86.869064
+4,Northgate,11,Entire home/apt,2,1,2,2,4,60,30,2,30,1,93.05342
+2,Central Area,11,Private room,1,1,1,1,4,1405,20,1,20,1,68.8077
+4,Rainier Valley,1,Entire home/apt,4,1,2,3,4,1243,35,2,90,0,106.48277
+2,Central Area,9,Private room,1,1,1,1,4,950,25,2,1125,1,66.68058
+8,Lake City,11,Entire home/apt,4,3,4,4,1,570,250,1,1125,0,348.02176
+3,Beacon Hill,1,Entire home/apt,1,1,1,1,4,1000,85,3,1125,0,129.29018
+5,Capitol Hill,18,Entire home/apt,4,1,2,3,4,203,90,1,1124,0,143.13594
+4,Other neighborhoods,11,Private room,2,1,2,2,4,504,0,1,1125,1,100.57805
+2,Queen Anne,11,Private room,1,1,1,1,4,1189,25,2,30,1,67.49495
+2,Rainier Valley,9,Entire home/apt,1,1,1,2,4,484,75,2,1125,1,111.15325
+3,Downtown,15,Entire home/apt,2,1,1,1,4,162,75,2,1125,1,114.44686
+2,Other neighborhoods,11,Entire home/apt,2,1,0,1,4,1080,30,2,14,0,93.32679
+11,Queen Anne,1,Entire home/apt,1,1,3,7,4,123,110,2,1125,1,339.63483
+8,West Seattle,11,Entire home/apt,6,2,3,3,4,106,225,1,1125,1,278.94598
+2,Ballard,10,Entire home/apt,1,1,0,1,4,1026,30,2,14,0,90.487236
+2,Downtown,1,Entire home/apt,1,1,0,1,4,785,75,1,30,0,125.932724
+2,Capitol Hill,11,Private room,1,1,1,1,4,1568,25,1,21,1,74.26788
+2,Central Area,18,Private room,2,1,1,1,4,1540,15,1,1125,1,64.66353
+2,Rainier Valley,1,Entire home/apt,2,1,0,1,4,923,50,1,1125,1,106.32104
+3,Queen Anne,1,Entire home/apt,2,1,1,3,4,1070,60,2,30,0,141.15945
+5,Downtown,1,Entire home/apt,4,2,2,2,4,744,129,2,1125,1,354.88376
+2,Magnolia,8,Private room,1,1,1,1,4,729,15,1,30,0,72.616005
+2,Rainier Valley,11,Private room,1,1,1,1,4,6,25,2,21,0,54.147
+4,Downtown,1,Entire home/apt,1,2,2,2,4,928,130,2,14,1,284.50116
+5,Queen Anne,11,Entire home/apt,4,1,2,3,4,323,100,30,1125,1,264.56482
+2,West Seattle,2,Private room,1,1,1,1,4,938,0,2,1125,0,80.82747
+3,Delridge,10,Entire home/apt,2,1,1,1,4,671,35,2,60,0,68.58492
+3,Downtown,1,Entire home/apt,1,1,1,1,4,892,60,2,1125,1,169.97098
+2,West Seattle,1,Entire home/apt,2,1,1,1,4,866,60,3,30,1,103.66219
+2,Capitol Hill,7,Entire home/apt,2,1,1,1,4,451,50,2,10,1,128.62064
+4,Capitol Hill,9,Entire home/apt,2,1,2,2,4,945,40,1,14,1,124.356125
+2,Central Area,18,Private room,2,1,1,1,4,1466,20,2,26,0,75.12185
+6,Other neighborhoods,11,Entire home/apt,1,2,3,4,4,1261,0,2,1125,1,230.00835
+8,Other neighborhoods,11,Entire home/apt,4,2,3,3,4,1099,100,1,1125,0,215.8642
+10,Central Area,11,Entire home/apt,8,3,3,3,4,556,110,1,1125,1,306.51282
+4,Downtown,1,Entire home/apt,1,1,1,1,4,1317,0,3,1125,0,170.69981
+2,Northgate,9,Private room,2,1,1,1,4,951,50,1,1125,1,84.080536
+2,Ballard,13,Entire home/apt,3,1,1,1,4,781,30,1,14,1,90.98289
+2,Other neighborhoods,15,Entire home/apt,1,1,1,1,4,413,0,1,1125,1,101.154625
+2,Seward Park,1,Entire home/apt,1,1,1,1,4,507,25,2,29,1,89.82866
+2,Ballard,9,Entire home/apt,2,1,1,1,4,802,60,1,1125,0,105.99475
+5,University District,1,Entire home/apt,2,2,2,3,4,270,100,1,1125,0,223.88205
+2,Capitol Hill,7,Entire home/apt,1,1,1,1,4,257,0,1,1125,0,99.50101
+2,Other neighborhoods,11,Entire home/apt,1,1,1,1,4,1007,0,2,365,1,100.76113
+2,Other neighborhoods,1,Entire home/apt,2,1,1,1,4,535,75,3,120,0,110.8146
+2,Ballard,11,Entire home/apt,1,1,1,1,4,266,30,2,1125,0,77.36768
+2,Queen Anne,7,Private room,1,1,1,1,4,1423,26,2,1125,1,73.17328
+2,Cascade,15,Entire home/apt,1,1,1,1,4,300,75,2,1125,1,129.39183
+4,Downtown,7,Entire home/apt,1,1,0,2,4,159,125,30,360,1,98.3711
+2,Rainier Valley,4,Private room,2,1,1,1,4,67,5,2,28,0,112.66762
+6,Rainier Valley,1,Entire home/apt,3,1,3,3,4,1135,100,28,365,0,164.79573
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,1565,60,2,7,0,110.25942
+2,Cascade,1,Entire home/apt,1,1,0,1,4,1316,50,1,21,1,131.80731
+2,Cascade,15,Entire home/apt,1,1,1,1,4,299,75,2,1125,1,129.39183
+4,Queen Anne,9,Entire home/apt,4,1,1,2,4,415,125,1,1125,0,121.99052
+4,Cascade,1,Entire home/apt,3,1,2,0,4,470,88,1,1120,1,197.90996
+3,Seward Park,11,Entire home/apt,2,1,1,1,0,284,50,1,14,0,98.30273
+2,Delridge,18,Private room,1,1,1,1,4,1270,55,7,1125,0,61.28496
+4,Capitol Hill,1,Entire home/apt,2,1,1,2,4,727,50,2,1125,1,139.89127
+4,West Seattle,11,Entire home/apt,1,1,2,2,4,825,40,3,1125,0,108.898506
+2,Seward Park,2,Private room,1,1,1,1,4,838,60,6,120,1,69.4784
+2,University District,1,Entire home/apt,1,1,1,1,4,764,80,2,1125,0,126.11919
+8,Queen Anne,11,Entire home/apt,1,2,3,4,4,648,250,3,1125,0,371.475
+5,Downtown,1,Entire home/apt,4,2,2,2,4,753,129,2,1125,1,350.95996
+1,Delridge,11,Private room,1,1,1,1,4,1491,75,3,90,0,46.484776
+5,West Seattle,7,Entire home/apt,1,1,2,2,4,1257,200,2,1125,1,143.80304
+6,Other neighborhoods,11,Entire home/apt,2,1,2,3,4,796,60,1,7,1,103.591156
+4,Queen Anne,11,Entire home/apt,2,1,2,2,4,194,50,3,1125,0,142.49039
+6,Rainier Valley,1,Entire home/apt,4,1,2,2,4,1119,99,3,1125,0,135.96114
+2,Delridge,11,Private room,1,1,1,1,4,1400,20,1,8,1,52.58528
+3,Downtown,1,Entire home/apt,2,1,1,1,4,894,69,1,1125,1,164.88899
+2,Downtown,1,Entire home/apt,1,1,1,1,4,914,75,30,1125,0,155.83978
+4,Central Area,11,Entire home/apt,4,1,2,2,4,141,45,1,1125,0,104.73339
+1,Capitol Hill,11,Private room,1,1,0,1,4,1477,25,1,1125,0,66.52803
+6,Downtown,7,Entire home/apt,1,1,2,2,4,411,130,2,180,1,178.62267
+2,Downtown,1,Entire home/apt,1,1,1,2,4,586,0,1,28,0,200.4152
+1,Other neighborhoods,11,Private room,1,1,1,1,4,856,0,1,31,1,72.7266
+3,Downtown,1,Entire home/apt,3,1,1,1,4,396,40,2,1125,1,165.5298
+4,Other neighborhoods,11,Shared room,4,3,1,4,4,51,300,4,1125,0,355.2444
+8,Capitol Hill,18,Entire home/apt,6,2,3,6,4,356,150,1,15,0,293.6099
+5,Downtown,1,Entire home/apt,4,2,2,2,4,744,129,2,1125,1,354.88376
+4,Delridge,9,Entire home/apt,1,1,2,2,4,1425,50,1,7,0,91.22908
+8,Delridge,11,Entire home/apt,4,1,2,5,4,13,80,2,90,0,169.74277
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,1222,60,2,12,1,159.90146
+4,Other neighborhoods,9,Entire home/apt,2,1,1,2,4,970,40,2,12,0,113.35408
+5,Capitol Hill,1,Entire home/apt,2,1,1,1,4,1525,0,2,1124,0,131.75243
+3,Capitol Hill,1,Entire home/apt,2,1,0,1,4,753,89,21,1125,1,153.77708
+1,Other neighborhoods,11,Private room,1,1,1,1,4,475,15,1,1125,0,52.882412
+4,Queen Anne,1,Entire home/apt,2,1,1,1,4,873,60,3,1125,1,121.87243
+3,Downtown,1,Entire home/apt,2,1,1,1,4,598,89,2,1125,1,247.42513
+2,West Seattle,2,Private room,1,1,1,1,4,939,0,2,1125,0,80.82747
+3,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,890,89,2,1125,1,135.4408
+3,Other neighborhoods,18,Private room,2,1,1,2,4,1358,25,1,365,0,90.17957
+4,Queen Anne,9,Entire home/apt,1,1,1,2,4,1496,55,1,7,1,110.851875
+1,Capitol Hill,11,Shared room,1,3,1,1,4,1318,45,7,1125,0,51.726032
+4,Other neighborhoods,1,Entire home/apt,2,1,1,1,4,314,40,2,30,0,92.223434
+5,Cascade,7,Entire home/apt,1,1,1,2,4,551,0,1,1125,1,167.60063
+4,Rainier Valley,8,Entire home/apt,4,1,2,2,4,1053,60,2,1125,1,135.05225
+1,Capitol Hill,11,Shared room,1,3,1,1,4,1095,0,1,30,1,37.01211
+3,Downtown,1,Entire home/apt,2,1,0,1,4,747,89,2,1125,1,147.1354
+4,Capitol Hill,11,Private room,4,1,2,3,4,931,80,1,1125,1,140.36017
+3,Ballard,1,Entire home/apt,3,1,1,1,4,497,25,3,1125,0,95.72321
+2,Queen Anne,11,Private room,1,1,1,1,4,75,20,1,21,1,64.133224
+2,Queen Anne,1,Private room,1,1,1,2,4,1576,45,1,21,1,74.45828
+2,Delridge,18,Private room,1,1,1,1,4,614,35,2,90,0,61.20935
+2,Capitol Hill,0,Private room,1,1,0,1,4,3,0,1,1125,1,77.09421
+2,Central Area,1,Entire home/apt,2,1,1,1,4,722,70,2,40,0,124.23833
+4,Other neighborhoods,11,Entire home/apt,2,1,2,2,4,626,40,2,28,0,137.85411
+2,Ballard,11,Private room,1,1,1,1,4,116,50,2,1125,0,80.11553
+3,West Seattle,1,Entire home/apt,1,1,1,2,4,948,40,3,1125,0,85.593925
+3,Rainier Valley,11,Private room,3,1,1,2,4,806,9,1,100,1,39.39204
+6,West Seattle,1,Entire home/apt,6,1,2,2,4,486,150,3,1125,0,184.89612
+3,Capitol Hill,11,Private room,4,1,2,2,4,1464,50,2,1125,1,141.03345
+3,Downtown,1,Entire home/apt,1,1,1,1,4,906,60,2,1125,1,169.97098
+4,Other neighborhoods,10,Entire home/apt,2,1,1,3,4,363,75,2,30,0,119.44894
+6,Downtown,1,Entire home/apt,6,2,2,3,4,176,99,1,365,1,892.2564
+6,Capitol Hill,11,Entire home/apt,6,3,4,5,4,521,150,3,14,0,381.53845
+3,Downtown,1,Entire home/apt,2,1,0,2,4,1253,69,1,1125,1,140.54663
+2,Ballard,1,Entire home/apt,1,1,1,1,4,784,0,3,1125,0,119.527084
+2,Delridge,10,Entire home/apt,1,1,1,1,4,652,25,1,60,1,75.867325
+3,Downtown,7,Shared room,1,1,1,2,4,1584,5,2,14,1,146.89299
+4,West Seattle,8,Entire home/apt,3,1,2,2,4,1006,85,1,20,1,129.93465
+3,Cascade,15,Entire home/apt,2,1,1,1,4,319,75,2,1125,1,132.33908
+3,Downtown,1,Entire home/apt,2,1,0,1,4,1559,50,1,4,0,132.8214
+10,Central Area,11,Entire home/apt,1,1,3,5,4,1045,150,2,1125,1,304.7916
+2,Downtown,15,Entire home/apt,1,1,1,1,4,1297,75,2,1125,1,184.84927
+2,West Seattle,18,Private room,1,1,1,1,4,967,0,3,35,1,72.89724
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,910,60,1,1125,1,124.96503
+8,Other neighborhoods,11,Entire home/apt,1,3,4,5,4,861,150,2,1125,1,297.08414
+2,Cascade,18,Private room,2,1,1,1,4,849,50,1,1000,0,128.90483
+6,Ballard,11,Entire home/apt,6,2,3,3,4,680,175,3,365,0,280.45926
+2,Queen Anne,1,Entire home/apt,1,1,1,1,4,583,60,1,1120,0,135.2348
+3,West Seattle,11,Private room,1,1,2,2,4,969,20,3,10,0,75.051346
+4,West Seattle,11,Entire home/apt,3,1,1,2,4,576,65,1,1125,0,97.03159
+4,Other neighborhoods,4,Entire home/apt,1,1,2,2,4,632,115,4,365,0,207.4877
+4,Central Area,18,Private room,2,1,2,2,4,1504,30,2,7,0,90.75217
+4,Other neighborhoods,9,Entire home/apt,2,1,2,2,4,447,100,2,300,0,124.278595
+4,Downtown,1,Entire home/apt,1,1,1,2,4,334,99,2,1125,1,886.1895
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,1579,75,2,1125,0,132.50992
+3,Central Area,1,Entire home/apt,2,1,1,2,4,1214,55,3,1124,0,114.66488
+3,Downtown,1,Entire home/apt,2,1,1,1,4,599,89,2,1125,1,247.42513
+4,Other neighborhoods,9,Entire home/apt,2,1,1,2,4,474,30,2,1125,0,99.91558
+2,Northgate,4,Private room,1,1,1,1,4,44,0,1,29,1,69.88245
+2,Central Area,11,Private room,1,1,1,1,4,946,0,2,1125,0,73.97482
+8,Central Area,11,Entire home/apt,1,2,3,4,4,1029,200,3,1125,1,279.80154
+5,Other neighborhoods,7,Entire home/apt,1,2,2,3,4,1043,50,30,70,0,185.43483
+1,Central Area,18,Private room,1,1,1,1,4,69,30,1,1125,0,58.08361
+3,Beacon Hill,9,Entire home/apt,2,1,0,2,4,422,50,2,28,0,107.04777
+4,Downtown,1,Entire home/apt,2,1,1,1,4,160,50,1,30,1,131.06264
+8,Queen Anne,1,Entire home/apt,6,2,3,4,4,197,170,2,1125,1,307.04666
+3,Magnolia,11,Entire home/apt,1,1,0,1,4,1373,40,2,1125,0,89.14705
+2,West Seattle,10,Entire home/apt,1,1,1,1,4,448,50,1,30,0,102.14392
+7,Downtown,7,Entire home/apt,7,2,2,4,4,330,165,1,365,1,368.10168
+2,Rainier Valley,1,Entire home/apt,2,1,1,1,4,554,45,2,30,0,80.11241
+2,Capitol Hill,1,Private room,1,1,1,1,4,675,10,1,14,0,67.66194
+4,Queen Anne,11,Entire home/apt,2,1,2,2,4,466,49,2,1125,0,135.40204
+8,Other neighborhoods,1,Entire home/apt,2,1,2,5,4,673,40,1,1125,1,108.27387
+5,University District,11,Entire home/apt,1,1,2,2,4,107,105,3,1125,0,132.52814
+3,West Seattle,10,Entire home/apt,2,1,1,1,4,205,65,3,28,1,112.36179
+2,University District,11,Private room,1,1,1,1,4,1386,0,2,6,1,59.541595
+4,Capitol Hill,1,Entire home/apt,1,1,1,2,4,699,55,1,1125,1,132.7855
+1,University District,11,Private room,1,1,1,1,4,1471,150,14,1125,1,105.225945
+6,Ballard,11,Entire home/apt,1,1,2,3,4,445,90,1,1125,1,106.84753
+2,Lake City,10,Entire home/apt,1,1,1,2,4,454,75,2,180,1,120.76266
+2,Other neighborhoods,7,Private room,1,1,1,1,4,961,0,2,14,1,77.20883
+8,Rainier Valley,11,Entire home/apt,2,2,4,6,4,992,115,2,30,1,229.4895
+6,Central Area,1,Entire home/apt,4,1,1,1,4,1073,50,1,21,1,145.73811
+2,Cascade,1,Entire home/apt,1,1,1,1,4,1291,0,3,1125,1,196.06699
+5,Other neighborhoods,9,Entire home/apt,2,1,2,2,4,787,45,2,15,1,107.23424
+1,Rainier Valley,11,Private room,1,1,0,1,4,1408,25,1,1125,0,52.185436
+4,Other neighborhoods,11,Entire home/apt,1,2,3,3,4,510,153,2,28,1,216.42328
+2,Ballard,11,Private room,1,1,1,1,4,1149,85,1,85,1,94.55111
+5,Capitol Hill,7,Entire home/apt,4,1,2,3,4,231,160,7,1125,1,276.3664
+2,Capitol Hill,13,Entire home/apt,2,1,1,2,4,398,50,3,12,1,156.37248
+4,Other neighborhoods,11,Entire home/apt,3,1,2,2,4,138,125,2,1125,0,114.5204
+2,Queen Anne,1,Entire home/apt,1,1,1,1,4,1292,0,3,10,0,109.87101
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,1427,125,7,1125,1,104.26723
+2,Cascade,15,Entire home/apt,1,1,1,1,4,293,75,2,1125,1,129.39183
+7,Cascade,1,Entire home/apt,6,2,3,3,4,601,159,2,1125,1,300.44675
+6,Queen Anne,11,Entire home/apt,4,1,2,3,4,136,299,2,1000,1,219.25964
+3,Central Area,9,Entire home/apt,2,1,1,2,4,929,40,2,7,0,93.08935
+4,Cascade,1,Entire home/apt,2,1,2,2,4,232,115,3,1125,1,170.86115
+3,Downtown,1,Entire home/apt,2,1,0,1,4,747,89,2,1125,1,147.1354
+6,Central Area,1,Entire home/apt,11,1,2,4,4,664,125,2,28,1,257.5209
+3,Downtown,1,Private room,1,1,1,2,4,87,5,1,20,0,102.40016
+5,Other neighborhoods,11,Entire home/apt,1,1,2,2,4,803,0,2,1125,1,135.23306
+9,Capitol Hill,11,Entire home/apt,8,3,5,5,4,713,150,2,30,0,441.1731
+3,Rainier Valley,10,Entire home/apt,2,1,1,2,4,41,60,1,1125,1,93.297966
+3,Central Area,18,Private room,2,1,1,1,4,1244,30,1,1125,1,77.521904
+4,Other neighborhoods,1,Entire home/apt,2,1,1,2,4,538,75,2,1125,0,118.81613
+8,Cascade,3,Entire home/apt,4,2,3,5,4,0,25,1,1125,0,213.91971
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1361,50,1,1125,0,82.572975
+4,Other neighborhoods,11,Entire home/apt,2,1,1,2,4,1061,30,1,28,0,99.08795
+2,Ballard,9,Private room,1,1,1,1,2,68,20,2,21,1,58.82843
+6,Delridge,11,Private room,2,0,1,4,4,865,0,1,1125,1,105.65847
+6,Downtown,1,Entire home/apt,1,2,2,4,4,394,135,3,1125,1,432.2295
+6,Ballard,11,Entire home/apt,4,1,2,5,4,797,200,3,1125,1,123.83087
+4,Ballard,9,Entire home/apt,1,1,2,3,4,1172,60,2,28,1,128.13524
+4,Capitol Hill,1,Entire home/apt,1,1,1,2,4,701,55,1,1125,1,132.7855
+4,Queen Anne,9,Entire home/apt,2,1,1,2,4,515,40,2,1125,0,101.78524
+8,West Seattle,11,Entire home/apt,2,2,3,3,4,234,150,2,30,0,295.03772
+2,Cascade,1,Entire home/apt,1,1,0,1,4,1315,50,1,21,1,131.80731
+4,Downtown,7,Entire home/apt,1,1,0,2,4,327,49,1,1125,0,105.30292
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1490,15,1,1125,0,53.344437
+3,Ballard,10,Entire home/apt,2,1,1,0,4,379,35,3,60,1,88.919205
+4,Cascade,1,Entire home/apt,1,2,2,2,4,720,230,30,1125,0,219.05344
+8,Beacon Hill,18,Entire home/apt,6,3,3,5,4,353,120,2,1125,0,341.28818
+1,Northgate,11,Private room,1,1,1,1,4,1371,20,3,1125,1,71.50809
+1,University District,11,Shared room,1,3,1,1,4,1370,75,3,90,0,61.957233
+12,Queen Anne,1,Entire home/apt,10,2,4,4,4,197,260,2,1125,1,362.8505
+2,Central Area,11,Private room,1,1,1,1,4,1492,40,2,14,0,72.493675
+2,Rainier Valley,10,Entire home/apt,1,1,1,1,4,1495,60,5,1125,0,100.859665
+2,Beacon Hill,9,Entire home/apt,1,1,0,0,4,851,50,2,1125,0,105.19366
+2,West Seattle,10,Entire home/apt,1,1,0,1,4,134,0,2,29,1,87.35563
+4,Capitol Hill,1,Entire home/apt,2,1,1,2,4,1199,50,2,1125,1,143.27994
+3,Other neighborhoods,9,Entire home/apt,2,1,1,1,4,871,35,2,30,0,86.24974
+2,Downtown,1,Private room,1,1,1,1,4,884,14,1,90,0,104.70306
+1,Downtown,1,Private room,1,1,1,1,4,1231,25,1,14,0,109.9268
+4,Delridge,11,Private room,2,1,2,3,4,1514,30,6,300,1,60.33796
+3,Capitol Hill,15,Entire home/apt,2,1,0,1,4,1218,60,2,12,1,155.87903
+2,Magnolia,18,Private room,1,1,1,1,4,1404,15,1,1125,0,71.11201
+5,Delridge,9,Entire home/apt,2,1,2,3,4,1055,60,1,30,0,104.328865
+4,Other neighborhoods,9,Entire home/apt,2,1,1,2,4,1431,55,2,30,0,109.06109
+4,Central Area,1,Entire home/apt,2,1,1,1,4,252,69,2,14,0,105.48031
+8,Delridge,18,Entire home/apt,1,3,3,4,4,440,150,2,1125,1,279.74368
+6,Other neighborhoods,1,Entire home/apt,4,1,3,3,4,543,99,2,365,1,250.24463
+4,Downtown,1,Entire home/apt,2,1,1,1,4,403,80,2,1125,0,193.96053
+4,University District,11,Entire home/apt,4,2,4,3,4,850,75,2,1125,0,189.39323
+2,Other neighborhoods,11,Entire home/apt,2,1,1,1,4,552,0,1,1125,1,107.88357
+2,Queen Anne,11,Private room,1,1,1,1,4,1323,20,2,7,1,73.35287
+4,Central Area,4,Entire home/apt,4,2,2,2,4,789,40,1,1125,1,211.74756
+8,Queen Anne,11,Entire home/apt,8,3,4,5,4,468,200,2,1125,0,442.8021
+4,Downtown,1,Entire home/apt,1,1,1,2,4,148,135,30,1125,1,173.16745
+4,Downtown,1,Entire home/apt,2,1,0,2,4,1529,50,1,1125,1,140.66376
+4,Other neighborhoods,15,Entire home/apt,1,2,2,2,4,413,0,1,1125,1,155.83429
+4,Ballard,1,Entire home/apt,1,1,1,3,4,530,50,2,1125,0,118.07143
+2,Central Area,15,Entire home/apt,1,1,0,1,4,1251,75,1,1125,1,123.93538
+4,West Seattle,11,Entire home/apt,1,1,2,2,4,998,90,2,1125,0,117.90708
+2,Delridge,9,Entire home/apt,1,1,1,1,4,1349,45,1,7,0,103.27502
+4,West Seattle,9,Entire home/apt,1,1,1,2,4,959,15,1,90,1,84.145615
+3,Downtown,1,Entire home/apt,2,1,1,1,4,600,89,2,1125,1,247.42513
+5,Queen Anne,1,Entire home/apt,2,1,2,2,4,732,85,1,20,0,147.50793
+8,University District,18,Entire home/apt,4,2,3,6,4,128,125,1,28,1,248.8012
+2,Queen Anne,7,Private room,2,1,1,1,4,1283,40,2,1125,0,86.24751
+4,Ballard,11,Entire home/apt,1,1,2,2,4,1065,0,1,1125,0,125.81272
+12,Northgate,11,Entire home/apt,1,2,4,4,4,505,300,2,60,0,392.56497
+3,Capitol Hill,1,Entire home/apt,2,1,0,2,4,1233,50,1,1125,1,132.4626
+2,Cascade,15,Entire home/apt,1,1,1,1,4,304,75,2,1125,1,129.39183
+2,Rainier Valley,11,Private room,1,1,1,1,2,420,10,1,14,1,43.18184
+6,Downtown,1,Entire home/apt,6,1,2,3,4,606,125,1,365,1,331.01993
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,409,30,3,27,0,95.09631
+2,University District,1,Entire home/apt,1,1,0,1,4,1517,65,1,1125,0,110.07714
+4,Northgate,1,Entire home/apt,1,1,2,2,4,1079,0,5,64,1,132.07349
+3,University District,1,Entire home/apt,1,1,1,2,4,78,60,1,1125,0,98.2729
+3,Other neighborhoods,1,Entire home/apt,2,1,1,2,4,532,15,2,29,0,75.40525
+1,West Seattle,6,Entire home/apt,1,1,0,1,4,826,5,1,1125,0,118.766136
+4,Ballard,9,Entire home/apt,4,1,2,1,4,874,75,2,28,0,167.08087
+2,Ballard,4,Entire home/apt,2,1,1,1,4,1180,30,2,21,0,90.895
+2,Downtown,7,Entire home/apt,1,1,0,1,4,175,100,1,1125,0,213.88077
+2,Downtown,7,Entire home/apt,1,1,1,1,4,291,50,3,60,1,116.1568
+3,Central Area,1,Entire home/apt,2,1,0,1,4,698,30,1,20,1,86.36371
+4,Downtown,7,Entire home/apt,1,1,1,1,4,927,130,2,7,1,182.88066
+2,Cascade,15,Entire home/apt,1,1,1,1,4,294,75,2,1125,1,129.39183
+2,Delridge,10,Entire home/apt,2,1,1,1,4,1187,30,2,1125,0,73.13149
+2,Downtown,1,Entire home/apt,2,1,0,1,4,1295,75,30,1125,0,138.22122
+5,Northgate,11,Entire home/apt,2,1,1,2,4,1084,55,1,1125,1,117.12312
+2,Cascade,15,Entire home/apt,1,1,1,1,4,301,75,2,1125,1,129.39183
+2,Cascade,15,Entire home/apt,1,1,1,1,4,303,75,2,1125,1,129.39183
+4,Other neighborhoods,18,Entire home/apt,4,1,2,2,4,441,189,3,40,1,137.38272
+3,Downtown,1,Entire home/apt,2,1,1,1,4,599,89,2,1125,1,247.42513
+11,Queen Anne,11,Entire home/apt,4,2,4,8,4,1321,185,2,31,0,386.59393
+2,Ballard,10,Entire home/apt,1,1,1,1,4,21,40,4,15,1,91.27853
+14,Ballard,11,Entire home/apt,10,3,5,9,4,640,200,2,29,1,452.46213
+4,Downtown,7,Entire home/apt,1,1,2,2,4,374,115,3,1125,1,211.96411
+4,Other neighborhoods,1,Entire home/apt,4,1,1,2,4,261,95,1,365,1,128.62659
+6,Ballard,18,Entire home/apt,1,2,3,4,4,655,125,3,24,0,299.35593
+8,University District,18,Entire home/apt,4,1,2,5,4,1453,80,1,1000,1,170.35413
+3,Ballard,1,Entire home/apt,3,1,0,2,4,1277,45,2,1125,1,94.33159
+4,Other neighborhoods,1,Entire home/apt,2,1,1,2,4,31,30,2,1125,0,89.78975
+3,Other neighborhoods,9,Entire home/apt,2,1,0,2,4,734,75,3,30,0,114.29606
+2,Other neighborhoods,9,Entire home/apt,2,1,1,1,4,180,30,1,14,1,77.61393
+2,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,58,80,2,1125,0,104.77679
+2,Ballard,13,Entire home/apt,1,1,0,1,4,1347,75,2,1125,0,126.31451
+10,Central Area,18,Entire home/apt,6,2,3,5,4,108,150,1,365,1,348.38034
+4,Capitol Hill,1,Entire home/apt,2,1,1,2,4,1313,50,2,14,1,149.99431
+3,Other neighborhoods,1,Entire home/apt,3,1,1,2,4,209,54,1,30,0,95.56708
+3,University District,1,Entire home/apt,2,1,1,1,4,1190,60,1,1125,1,116.12723
+6,Capitol Hill,11,Entire home/apt,4,2,3,4,4,1134,150,1,30,0,252.85878
+2,Downtown,1,Entire home/apt,2,1,1,1,4,594,75,30,1125,0,195.42224
+1,Queen Anne,4,Private room,1,1,1,1,4,241,49,2,1125,0,80.51264
+5,Queen Anne,1,Entire home/apt,1,1,1,3,4,1497,55,2,15,0,139.77872
+4,Ballard,1,Entire home/apt,1,1,2,2,4,934,40,2,1125,1,107.70737
+3,Downtown,1,Entire home/apt,2,1,1,1,4,744,89,2,1125,1,179.16344
+4,Ballard,1,Entire home/apt,2,1,1,1,4,909,25,1,31,0,98.943016
+6,Capitol Hill,1,Entire home/apt,3,1,3,3,4,1213,85,2,12,1,229.32164
+6,Downtown,1,Entire home/apt,1,2,2,3,4,332,109,2,1125,1,821.7047
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1480,15,2,30,1,52.592785
+4,Beacon Hill,1,Entire home/apt,2,1,1,1,4,1122,75,2,1125,0,133.39127
+2,Beacon Hill,11,Private room,1,1,1,1,4,1419,25,1,21,1,63.11469
+6,West Seattle,11,Entire home/apt,4,2,3,3,4,1058,125,2,1125,0,233.07933
+2,Beacon Hill,18,Private room,1,1,1,1,4,1394,15,2,1125,1,71.65791
+6,University District,11,Entire home/apt,4,1,2,3,4,833,75,3,1125,0,135.43289
+2,Beacon Hill,11,Private room,1,2,1,1,4,811,50,1,1125,1,82.40346
+3,Queen Anne,11,Entire home/apt,2,1,1,1,4,666,75,1,30,0,124.604164
+4,Queen Anne,11,Entire home/apt,4,1,4,5,4,494,150,2,14,0,275.4245
+5,West Seattle,11,Entire home/apt,2,1,1,2,4,467,75,1,365,0,111.3878
+4,Other neighborhoods,11,Entire home/apt,1,3,3,4,4,382,191,2,28,1,251.42259
+2,Downtown,7,Entire home/apt,2,1,1,1,4,103,100,5,90,0,182.43254
+2,Northgate,11,Private room,1,1,1,1,4,44,0,1,29,1,61.84846
+5,Rainier Valley,11,Entire home/apt,3,1,2,3,4,352,120,2,1125,0,187.62459
+2,Lake City,11,Entire home/apt,2,1,1,1,4,499,75,2,28,0,114.82181
+4,West Seattle,9,Entire home/apt,4,1,2,3,4,578,95,2,1125,1,151.29471
+10,West Seattle,11,Entire home/apt,10,2,4,5,4,1057,150,4,30,0,369.3811
+2,Central Area,18,Private room,1,1,1,1,4,957,0,2,1125,0,75.94158
+2,Downtown,1,Entire home/apt,3,1,0,1,4,886,47,1,90,1,136.88298
+4,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,433,75,1,1125,0,115.64519
+3,Downtown,13,Entire home/apt,2,1,1,2,4,971,80,1,1125,0,156.5456
+2,Rainier Valley,11,Private room,1,1,1,1,4,678,7,2,1125,0,71.30241
+2,Capitol Hill,11,Entire home/apt,1,1,1,1,4,758,40,3,1125,0,99.67494
+4,Capitol Hill,1,Entire home/apt,1,1,1,2,4,384,85,2,1125,1,138.5849
+6,Ballard,18,Entire home/apt,1,2,3,15,4,1140,265,2,1125,1,272.5984
+4,Rainier Valley,9,Entire home/apt,2,1,1,2,4,1169,50,3,1125,1,113.7141
+6,Downtown,7,Entire home/apt,1,1,2,2,4,104,130,2,1125,0,139.78783
+6,Downtown,15,Entire home/apt,1,2,2,3,4,549,105,2,1125,1,377.04205
+1,Ballard,18,Private room,1,1,1,1,4,1494,20,1,90,1,67.22485
+2,Capitol Hill,13,Entire home/apt,1,1,1,1,4,315,80,30,1125,0,92.83166
+3,West Seattle,9,Entire home/apt,2,1,1,2,4,903,39,1,62,0,93.07764
+4,Capitol Hill,11,Entire home/apt,2,1,2,3,4,1028,110,2,28,0,198.54634
+5,Other neighborhoods,11,Entire home/apt,4,1,2,2,4,1022,50,2,1125,1,136.86232
+4,Northgate,1,Entire home/apt,2,1,1,2,4,1005,40,1,1125,1,97.06628
+2,Downtown,1,Entire home/apt,1,1,1,1,4,914,75,30,1125,0,155.83978
+2,Downtown,1,Entire home/apt,2,1,0,1,4,1309,50,1,1125,1,141.04045
+4,Central Area,9,Entire home/apt,2,1,2,2,4,692,0,2,1125,0,135.44193
+6,Other neighborhoods,18,Entire home/apt,1,2,2,3,4,987,217,2,1125,1,230.5864
+2,Downtown,1,Entire home/apt,2,1,1,1,4,597,75,30,1125,1,231.80606
+2,Downtown,1,Entire home/apt,2,1,1,1,4,320,100,1,365,1,432.2193
+2,Queen Anne,1,Entire home/apt,1,1,1,1,4,1331,0,2,1125,1,121.25594
+4,Capitol Hill,1,Entire home/apt,1,1,2,3,4,264,80,2,1125,0,142.6218
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1299,75,5,1125,0,173.74854
+6,Downtown,7,Entire home/apt,6,1,2,2,4,101,130,1,365,0,159.4487
+2,West Seattle,11,Entire home/apt,2,1,1,1,4,139,60,1,1125,1,97.79899
+4,Lake City,11,Private room,2,1,1,2,4,1396,5,1,90,1,372.07935
+6,Other neighborhoods,11,Entire home/apt,1,2,3,2,4,220,150,2,1125,0,235.3716
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1348,0,1,1125,1,104.22784
+2,Rainier Valley,4,Private room,1,1,1,1,4,365,20,1,4,0,56.28822
+2,Cascade,1,Entire home/apt,2,1,1,1,4,1524,95,20,1125,1,158.7443
+2,Northgate,11,Private room,1,1,0,1,2,571,20,2,25,1,52.489513
+2,Ballard,18,Private room,1,1,1,1,4,59,65,2,26,1,82.65104
+2,Beacon Hill,10,Entire home/apt,1,1,1,1,4,647,45,2,180,1,91.631256
+4,Queen Anne,11,Private room,2,2,1,2,4,1562,20,1,21,1,123.870445
+4,Lake City,11,Entire home/apt,2,1,1,2,4,435,20,1,180,1,73.146835
+3,Magnolia,11,Private room,3,1,1,2,4,370,0,2,1125,1,113.39571
+6,West Seattle,4,Entire home/apt,1,1,2,3,4,691,130,2,180,1,155.61728
+2,University District,1,Entire home/apt,1,1,0,1,4,62,50,1,1125,0,103.372696
+2,Magnolia,11,Entire home/apt,1,1,0,1,4,1511,0,2,1125,0,107.36302
+2,Lake City,11,Private room,1,2,1,1,2,1436,25,1,15,1,44.449432
+2,University District,1,Entire home/apt,1,1,1,1,4,1527,60,2,1125,0,116.16091
+8,Other neighborhoods,11,Entire home/apt,4,2,2,4,4,385,120,4,15,0,259.33786
+2,Magnolia,10,Entire home/apt,1,1,0,1,4,1376,39,1,30,1,86.76679
+6,Queen Anne,1,Entire home/apt,4,1,2,2,4,1039,130,2,1125,1,188.05997
+3,Downtown,1,Entire home/apt,2,1,1,1,4,743,89,2,1125,1,179.16344
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1570,50,1,1125,1,124.17392
+12,Other neighborhoods,11,Entire home/apt,1,2,3,3,4,503,150,3,30,0,297.15237
+2,Ballard,1,Entire home/apt,1,1,0,1,4,960,50,7,90,0,77.45997
+2,Delridge,9,Entire home/apt,1,1,0,1,4,1409,35,1,14,1,59.63835
+3,Downtown,1,Entire home/apt,2,1,1,1,4,743,89,2,1125,1,179.16344
+2,West Seattle,9,Entire home/apt,2,1,1,1,4,478,100,2,30,1,117.24356
+6,Other neighborhoods,11,Entire home/apt,4,1,2,3,4,1019,85,1,28,1,134.99243
+6,Other neighborhoods,11,Entire home/apt,2,2,2,3,4,1117,65,2,17,0,183.02203
+4,Capitol Hill,1,Entire home/apt,2,1,1,2,4,1279,20,1,1125,1,132.3533
+3,Northgate,1,Entire home/apt,2,1,1,1,4,389,50,2,1125,0,111.58403
+10,Queen Anne,11,Entire home/apt,8,2,4,5,4,434,200,2,30,0,450.41318
+2,Ballard,1,Private room,1,1,1,1,4,66,20,2,14,1,65.73224
+3,Downtown,1,Entire home/apt,1,1,1,1,4,892,60,2,1125,1,169.97098
+6,Northgate,11,Entire home/apt,4,1,2,3,4,1084,65,1,1125,1,149.92233
+6,Central Area,11,Entire home/apt,6,2,3,3,4,32,288,2,1125,1,177.69174
+12,Rainier Valley,11,Entire home/apt,1,2,3,7,4,989,150,2,1125,1,352.80807
+2,Northgate,11,Private room,1,1,1,1,4,1469,45,7,30,1,48.523273
+4,Other neighborhoods,1,Entire home/apt,4,2,2,2,4,96,60,2,1125,1,181.9316
+7,Rainier Valley,11,Entire home/apt,1,2,3,4,4,830,95,1,15,1,170.54419
+4,Central Area,1,Entire home/apt,1,1,0,2,4,91,40,1,21,1,80.115776
+3,Capitol Hill,1,Entire home/apt,1,1,0,2,4,700,55,1,1125,1,125.92374
+4,Downtown,1,Entire home/apt,1,1,2,3,4,142,75,3,250,0,164.43306
+3,Downtown,1,Entire home/apt,1,1,0,1,4,335,80,1,1125,0,158.42746
+2,Lake City,9,Entire home/apt,1,1,0,2,4,1439,35,2,30,1,73.617836
+4,Central Area,1,Entire home/apt,1,1,1,1,4,1280,0,4,8,0,125.75927
+8,Other neighborhoods,11,Entire home/apt,8,2,3,6,4,897,120,3,1125,0,301.0414
+2,Central Area,11,Private room,1,1,1,1,4,966,15,2,35,0,53.400513
+2,Ballard,18,Private room,1,1,1,1,4,310,25,1,1125,0,65.34398
+4,Capitol Hill,7,Entire home/apt,1,1,2,3,4,523,82,1,28,1,149.71233
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,1141,50,1,1125,1,158.24431
+8,Other neighborhoods,11,Entire home/apt,7,2,3,3,4,111,125,25,400,0,279.89688
+3,Beacon Hill,5,Entire home/apt,3,0,1,2,4,337,15,1,100,1,84.82952
+3,Downtown,1,Entire home/apt,2,1,1,1,4,747,89,2,1125,1,175.23964
+3,Downtown,1,Entire home/apt,2,1,0,1,4,745,89,2,1125,1,151.0592
+4,Downtown,1,Entire home/apt,3,1,1,2,4,737,70,2,1125,1,166.9933
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1580,30,1,7,1,53.853756
+2,Downtown,1,Entire home/apt,2,1,0,1,4,42,50,2,1125,1,136.17609
+3,Downtown,1,Entire home/apt,2,1,1,1,4,745,89,2,1125,1,179.16344
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1344,200,120,270,0,110.21205
+4,Seward Park,9,Entire home/apt,2,1,2,2,4,798,100,3,180,0,105.46902
+6,Downtown,7,Entire home/apt,6,2,2,3,4,331,180,1,365,1,219.11557
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1325,60,2,12,1,172.7981
+7,Other neighborhoods,11,Entire home/apt,6,1,3,4,4,485,100,2,1125,0,203.22037
+2,Other neighborhoods,11,Shared room,1,2,1,1,4,1499,5,1,31,1,73.074486
+2,Downtown,17,Entire home/apt,2,1,0,1,4,774,0,2,7,1,150.8496
+4,Downtown,1,Private room,2,1,1,1,4,1343,20,2,1125,1,125.34719
+1,University District,11,Private room,1,1,1,1,4,80,20,1,21,1,56.776546
+3,Other neighborhoods,11,Entire home/apt,3,1,2,3,4,233,200,5,1125,0,173.35872
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,603,50,1,45,1,147.33759
+4,Beacon Hill,1,Entire home/apt,2,1,1,1,4,1014,45,2,120,1,98.868164
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,908,50,1,1125,1,117.13929
+4,Capitol Hill,1,Entire home/apt,1,1,1,2,4,92,50,2,1125,0,119.0638
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,144,65,1,1125,1,106.90026
+2,Rainier Valley,9,Private room,1,1,1,1,4,338,50,1,1125,0,115.66477
+3,Lake City,9,Entire home/apt,2,1,0,1,4,46,45,3,1125,0,112.58834
+6,Magnolia,11,Entire home/apt,2,1,1,2,4,1035,50,1,1125,0,113.08692
+2,Capitol Hill,7,Entire home/apt,1,1,1,1,4,311,50,3,1125,0,118.385376
+4,Other neighborhoods,1,Entire home/apt,1,1,2,3,4,1167,75,60,180,0,161.81114
+2,West Seattle,1,Entire home/apt,2,1,1,2,4,1534,60,2,7,0,111.97337
+6,Central Area,11,Entire home/apt,4,1,2,2,4,110,100,2,90,1,168.07446
+5,Downtown,1,Entire home/apt,4,2,2,2,4,599,129,2,1125,1,447.25397
+4,Queen Anne,11,Entire home/apt,1,2,3,3,4,985,0,1,20,0,237.75038
+6,Downtown,1,Entire home/apt,1,1,2,4,4,147,135,3,1125,1,267.50772
+4,Cascade,7,Entire home/apt,4,1,2,2,4,464,50,5,365,1,198.59132
+2,Cascade,15,Entire home/apt,1,1,1,1,4,297,75,2,1125,1,129.39183
+5,Capitol Hill,1,Entire home/apt,2,1,1,3,4,539,80,3,730,0,144.8832
+12,Other neighborhoods,11,Entire home/apt,10,3,6,9,4,832,300,2,1125,0,324.85016
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1366,100,2,31,0,95.59055
+2,Central Area,11,Entire home/apt,2,1,0,2,4,1018,50,1,90,0,100.49512
+3,West Seattle,11,Entire home/apt,2,1,1,1,4,437,75,3,20,1,122.08062
+4,Queen Anne,7,Entire home/apt,4,1,2,2,4,643,35,2,20,0,139.99313
+4,Downtown,7,Entire home/apt,2,1,1,2,4,149,90,3,60,1,127.93898
+2,Capitol Hill,1,Private room,1,1,1,1,4,1126,40,2,7,1,87.42818
+6,Queen Anne,11,Entire home/apt,6,1,3,3,4,604,193,2,90,1,193.29698
+3,Cascade,1,Entire home/apt,4,1,1,2,4,750,0,1,1125,1,217.30083
+4,Capitol Hill,1,Entire home/apt,1,1,2,2,4,1049,150,2,240,1,188.68954
+5,Queen Anne,1,Entire home/apt,1,1,1,1,4,1100,0,28,1125,0,137.25499
+4,Rainier Valley,9,Entire home/apt,4,1,2,4,4,1461,30,2,29,1,243.49068
+2,Beacon Hill,11,Entire home/apt,2,1,1,1,4,1013,55,3,365,0,102.219055
+4,Other neighborhoods,11,Entire home/apt,4,1,2,2,4,245,75,4,1125,0,142.89467
+5,Delridge,11,Entire home/apt,2,2,2,2,4,269,150,29,365,0,145.16713
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1450,10,1,1125,0,52.383316
+6,Queen Anne,11,Entire home/apt,6,2,3,4,4,670,323,3,1125,1,224.84299
+12,Queen Anne,11,Entire home/apt,4,3,4,7,4,1048,150,3,1125,0,371.40262
+2,Downtown,1,Private room,1,1,1,1,4,1585,40,1,1125,1,120.66793
+2,Other neighborhoods,11,Private room,1,1,1,2,4,129,25,14,1125,0,46.97811
+5,Downtown,1,Entire home/apt,4,1,2,2,4,753,129,2,1125,1,235.51009
+6,Rainier Valley,11,Entire home/apt,4,2,2,3,4,836,150,2,1125,0,237.04276
+5,Other neighborhoods,11,Entire home/apt,2,1,2,3,4,1064,40,1,1125,1,104.86537
+12,Central Area,11,Entire home/apt,6,2,3,6,4,273,150,1,365,1,320.8615
+2,Other neighborhoods,18,Private room,1,1,1,1,0,567,0,1,1125,0,59.81926
+4,Downtown,7,Entire home/apt,2,1,1,2,4,705,155,1,29,0,145.6086
+4,Other neighborhoods,9,Entire home/apt,2,1,1,1,4,177,40,2,120,0,89.9833
+2,West Seattle,9,Private room,1,1,1,1,4,973,50,1,28,0,81.4964
+4,Other neighborhoods,1,Entire home/apt,2,1,0,2,4,1184,40,1,14,0,81.532524
+4,Downtown,1,Entire home/apt,2,1,1,2,4,843,60,1,1125,1,159.00978
+4,West Seattle,11,Entire home/apt,1,1,1,2,4,958,50,2,100,1,103.19716
+6,Other neighborhoods,18,Entire home/apt,1,1,2,3,4,1532,105,1,1125,1,135.71797
+2,Capitol Hill,1,Private room,1,1,1,1,4,1217,100,5,88,0,135.90526
+2,Capitol Hill,7,Entire home/apt,1,1,1,2,4,258,30,2,1125,1,90.26675
+3,Downtown,1,Entire home/apt,1,1,1,1,4,892,60,2,1125,1,169.97098
+14,Queen Anne,1,Entire home/apt,10,3,5,5,4,1042,300,2,1125,1,399.5414
+3,Northgate,18,Entire home/apt,1,1,2,2,4,1444,50,6,1125,1,129.16193
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1207,25,30,180,0,34.35997
+2,Other neighborhoods,11,Private room,1,1,1,1,4,901,10,1,21,1,50.64044
+4,Other neighborhoods,6,Private room,1,0,1,2,4,1441,0,1,1125,1,73.12241
+2,Central Area,9,Entire home/apt,1,1,1,1,4,1186,40,1,7,0,83.14634
+6,West Seattle,18,Entire home/apt,4,2,2,3,4,202,150,3,120,1,259.93384
+11,Central Area,18,Entire home/apt,6,2,3,6,4,201,150,1,365,1,346.20007
+2,Capitol Hill,11,Private room,1,1,2,1,4,407,30,2,30,0,86.9964
+4,Other neighborhoods,11,Private room,1,1,1,1,4,517,0,1,9,1,78.56309
+3,Delridge,11,Private room,2,1,1,2,4,937,0,1,181,1,71.59074
+3,Rainier Valley,11,Private room,2,1,1,2,4,357,0,1,1125,0,80.92594
+3,Beacon Hill,11,Private room,1,2,1,2,4,793,30,1,7,0,79.2088
+6,Ballard,11,Entire home/apt,1,1,3,4,4,981,40,2,20,0,145.47668
+8,Downtown,13,Entire home/apt,6,2,3,6,4,170,197,1,365,1,395.26434
+5,Other neighborhoods,10,Entire home/apt,2,2,1,3,4,1179,40,1,14,1,142.96089
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,290,0,1,1125,1,97.980896
+5,Queen Anne,9,Entire home/apt,2,1,2,2,4,518,50,1,1125,1,124.018326
+1,Central Area,18,Private room,1,1,1,1,4,1426,35,2,30,0,61.702873
+2,Capitol Hill,9,Entire home/apt,2,1,1,1,4,508,40,2,5,1,102.799675
+2,Delridge,11,Private room,1,1,1,1,4,369,10,1,30,1,44.06384
+6,Downtown,1,Entire home/apt,6,2,2,3,4,336,99,1,365,1,1004.95166
+4,Other neighborhoods,9,Entire home/apt,1,1,2,2,4,275,79,3,61,0,145.11165
+1,Other neighborhoods,11,Shared room,1,3,1,1,4,51,75,4,90,1,43.08608
+2,Capitol Hill,0,Private room,1,1,1,1,4,77,0,1,1125,1,67.05442
+2,Beacon Hill,11,Private room,1,1,1,1,4,1353,35,1,31,1,82.27778
+2,Downtown,1,Entire home/apt,2,1,0,1,4,1219,60,2,12,1,175.35667
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1304,75,5,1125,0,173.74854
+2,Rainier Valley,4,Private room,1,1,1,1,4,347,30,2,1125,0,76.054474
+4,Ballard,1,Entire home/apt,1,1,1,1,4,840,125,2,30,1,113.53762
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1451,15,1,60,0,52.821117
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1289,79,3,1125,1,194.55322
+2,Cascade,18,Private room,1,1,1,1,4,476,35,2,1125,1,99.983574
+4,Magnolia,8,Entire home/apt,4,1,2,2,4,278,75,2,90,0,139.85008
+2,Beacon Hill,9,Private room,1,1,1,1,4,1385,30,3,14,0,79.98073
+6,Downtown,1,Entire home/apt,2,1,0,3,4,322,70,1,1124,1,137.87057
+2,Cascade,15,Entire home/apt,1,1,1,1,4,292,75,2,1125,1,129.39183
+2,Ballard,9,Entire home/apt,1,1,0,1,4,1350,80,4,1125,1,256.0911
+4,Delridge,11,Entire home/apt,2,1,1,1,4,1448,40,1,9,0,75.32031
+3,Downtown,1,Entire home/apt,2,1,1,1,4,753,89,2,1125,1,175.23964
+2,Central Area,1,Private room,1,1,1,1,4,1543,40,1,1125,1,71.274956
+4,Beacon Hill,11,Entire home/apt,4,1,2,3,4,492,13,1,1125,1,93.08098
+2,Central Area,1,Private room,2,1,1,1,4,1285,30,2,1125,1,172.05678
+4,Other neighborhoods,9,Entire home/apt,1,1,2,3,4,387,90,2,29,1,109.105415
+2,Other neighborhoods,11,Private room,1,1,1,1,4,52,0,2,1125,1,66.06665
+3,Cascade,1,Entire home/apt,2,1,1,1,4,601,89,2,1125,1,202.6356
+3,Downtown,1,Entire home/apt,2,1,1,1,4,628,79,28,1125,0,238.46793
+4,Capitol Hill,7,Entire home/apt,1,1,1,2,4,839,50,1,1125,1,127.49391
+2,Downtown,1,Entire home/apt,2,1,1,1,4,1300,80,30,45,0,174.58783
+6,Capitol Hill,11,Entire home/apt,1,2,3,4,4,1334,200,2,30,0,263.53696
+2,University District,1,Entire home/apt,1,1,1,1,4,1520,60,2,1125,0,116.16091
+2,Cascade,15,Entire home/apt,1,1,1,1,4,302,75,2,1125,1,129.39183
+2,West Seattle,9,Entire home/apt,2,1,1,1,4,112,35,1,7,0,81.62505
+4,Capitol Hill,1,Entire home/apt,1,1,2,2,4,1241,75,2,4,1,158.25114
+2,Delridge,11,Private room,1,1,1,1,4,1062,15,1,32,1,41.454025
+2,Downtown,1,Entire home/apt,1,1,0,1,4,318,100,2,1125,1,378.86572
+7,Ballard,11,Entire home/apt,4,4,3,3,4,187,300,14,60,0,585.1489
+5,Other neighborhoods,10,Entire home/apt,1,1,2,3,4,820,75,2,1125,1,143.90686
+4,Capitol Hill,7,Entire home/apt,1,1,1,2,4,1104,50,1,10,1,130.41162
+1,Capitol Hill,11,Private room,1,2,1,1,4,730,30,7,120,0,51.715187
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1304,75,5,1125,0,173.74854
+2,Other neighborhoods,11,Private room,2,1,2,1,4,656,20,2,14,1,76.825554
+2,Queen Anne,1,Private room,1,1,1,1,4,1327,0,1,5,1,79.47315
+4,Downtown,7,Entire home/apt,4,2,2,2,4,361,45,2,1125,0,210.32623
+9,Other neighborhoods,1,Entire home/apt,8,2,4,5,4,119,200,1,1125,0,359.65082
+3,Downtown,13,Entire home/apt,1,1,1,1,4,1522,50,1,1125,0,156.1223
+2,Capitol Hill,11,Private room,2,1,1,1,4,809,25,2,1125,1,81.80654
+4,Other neighborhoods,9,Entire home/apt,2,1,1,1,4,211,100,2,1125,0,95.15123
+6,Central Area,18,Entire home/apt,1,2,3,3,4,1208,350,7,1125,0,564.03094
+4,West Seattle,9,Entire home/apt,2,1,1,2,4,154,60,1,30,0,110.25496
+2,Cascade,1,Entire home/apt,2,1,1,1,4,1258,35,2,1125,0,128.46272
+1,Capitol Hill,13,Entire home/apt,1,1,0,1,4,853,200,50,450,0,59.861153
+4,Capitol Hill,11,Entire home/apt,1,1,2,2,4,1259,199,7,1125,0,126.423935
+6,Central Area,1,Entire home/apt,3,1,2,3,4,1112,70,2,1125,1,134.91838
+6,Other neighborhoods,9,Entire home/apt,4,2,3,4,4,56,100,1,30,0,193.36266
+16,Capitol Hill,11,Entire home/apt,10,3,5,8,4,201,200,1,365,1,534.64233
+2,West Seattle,8,Entire home/apt,1,1,1,1,4,1278,100,5,90,1,108.57829
+5,West Seattle,18,Entire home/apt,2,1,2,2,4,1033,100,2,14,1,168.62402
+6,Ballard,11,Entire home/apt,1,2,5,5,4,498,40,2,10,0,241.18765
+5,Downtown,1,Entire home/apt,1,1,0,3,4,1551,40,1,21,1,119.48796
+4,Downtown,7,Entire home/apt,2,1,1,2,4,373,50,2,1125,0,137.50209
+4,Other neighborhoods,1,Entire home/apt,4,1,2,2,4,977,150,30,365,0,120.17524
+1,Beacon Hill,18,Private room,1,1,1,2,4,531,120,7,360,0,87.02705
+3,Capitol Hill,1,Entire home/apt,2,1,0,2,4,677,0,1,27,1,116.66854
+3,Ballard,1,Entire home/apt,1,1,1,2,4,889,89,1,1125,1,132.86908
+4,Downtown,7,Entire home/apt,1,1,1,2,4,102,95,2,365,0,111.12402
+4,Queen Anne,9,Entire home/apt,2,1,0,1,4,446,140,2,1125,0,122.689804
+4,Queen Anne,10,Entire home/apt,3,1,1,1,4,1166,55,2,30,1,120.03448
+8,Central Area,11,Entire home/apt,8,2,4,4,4,34,250,7,300,0,374.85632
+5,Capitol Hill,18,Entire home/apt,1,3,3,3,4,380,125,3,120,0,342.2078
+2,Beacon Hill,9,Entire home/apt,1,1,1,1,4,1128,15,2,10,1,90.013916
+2,West Seattle,9,Entire home/apt,2,1,1,1,4,777,100,1,29,0,89.86545
+2,Capitol Hill,18,Private room,1,1,1,1,4,1399,25,1,60,1,69.799446
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,739,75,30,1125,0,116.30399
+5,Downtown,1,Entire home/apt,4,2,2,2,4,598,129,2,1125,1,447.25397
+2,Other neighborhoods,18,Private room,1,1,1,1,4,968,35,2,1125,0,61.786236
+10,Lake City,11,Entire home/apt,8,2,4,7,4,259,195,3,29,1,367.95236
+2,Rainier Valley,9,Entire home/apt,2,1,1,1,4,619,50,2,365,0,105.33767
+8,Ballard,13,Entire home/apt,8,1,4,4,4,574,100,2,1125,1,263.557
+5,University District,1,Entire home/apt,2,1,2,3,4,192,75,2,1125,0,131.76642
+6,Queen Anne,1,Entire home/apt,4,1,2,3,4,343,55,2,1125,1,197.30688
+11,Central Area,11,Entire home/apt,6,2,3,5,4,1194,150,1,180,1,331.0845
+4,Lake City,1,Entire home/apt,4,1,2,2,4,1105,50,2,30,0,154.1035
+3,Capitol Hill,1,Entire home/apt,2,1,1,0,4,1326,85,2,1125,0,153.50346
+2,Central Area,1,Entire home/apt,1,1,0,1,4,1574,40,1,21,1,85.26304
+3,Beacon Hill,9,Entire home/apt,1,1,1,1,4,933,0,1,12,1,101.53415
+2,Other neighborhoods,8,Private room,1,1,1,1,4,717,20,1,1125,0,73.00086
+3,Capitol Hill,1,Entire home/apt,2,1,0,1,4,1368,25,1,90,0,109.718925
+3,Capitol Hill,1,Entire home/apt,2,1,1,2,4,885,50,1,1125,1,136.04625
+8,Other neighborhoods,11,Entire home/apt,6,2,3,5,4,986,165,2,1125,1,263.7305
+3,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,1256,35,2,1125,0,94.57988
+6,Seward Park,9,Entire home/apt,4,1,2,3,4,509,75,1,7,1,187.86359
+1,Cascade,18,Private room,1,1,1,1,4,1465,50,5,120,0,130.29639
+1,Downtown,14,Shared room,1,1,1,1,4,736,10,1,1125,1,48.304386
+2,Northgate,10,Entire home/apt,3,1,0,2,4,1130,40,3,120,0,92.18791
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1304,75,6,1125,0,129.90045
+4,Capitol Hill,1,Entire home/apt,1,1,2,2,4,720,190,30,1125,0,161.834
+4,Downtown,1,Entire home/apt,3,1,2,1,4,1337,0,2,1125,0,186.29051
+1,Capitol Hill,11,Shared room,1,1,1,1,4,1572,15,1,21,1,36.457592
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1289,79,3,1125,1,194.55322
+8,Queen Anne,11,Entire home/apt,1,3,4,5,4,1260,250,3,1125,0,433.25754
+2,Seward Park,9,Entire home/apt,2,1,0,2,4,513,40,1,20,1,81.03525
+2,Ballard,7,Entire home/apt,2,1,1,1,4,1016,55,2,100,1,108.6581
+6,Central Area,11,Entire home/apt,1,1,3,3,4,1362,80,1,1125,1,150.28448
+3,Other neighborhoods,11,Entire home/apt,2,1,2,2,4,1502,30,2,14,0,110.50791
+4,Queen Anne,1,Entire home/apt,2,1,1,3,4,1263,160,1,29,1,216.73424
+2,Beacon Hill,11,Private room,1,1,1,1,4,1387,15,1,14,1,54.461258
+6,Central Area,20,Entire home/apt,6,4,4,5,4,559,210,3,60,0,485.515
+2,Ballard,11,Private room,2,1,1,1,4,1374,55,1,1125,1,97.44916
+4,Downtown,7,Entire home/apt,1,1,1,2,4,328,49,1,1125,1,118.37924
+5,Downtown,1,Entire home/apt,5,2,2,3,4,317,99,1,365,1,902.3765
+2,Other neighborhoods,18,Private room,2,1,1,1,4,613,35,2,21,0,69.18433
+6,Other neighborhoods,11,Entire home/apt,1,1,2,3,4,1239,0,2,1125,1,131.1586
+1,Capitol Hill,11,Shared room,2,1,1,1,4,83,150,4,90,0,87.443954
+3,Central Area,18,Entire home/apt,2,1,1,2,4,895,65,2,120,0,129.79977
+7,Other neighborhoods,11,Entire home/apt,2,1,2,3,4,591,25,3,1125,0,134.07838
+2,West Seattle,11,Private room,1,1,1,1,4,1072,10,3,180,0,66.07635
+5,Downtown,1,Entire home/apt,4,2,2,2,4,744,129,2,1125,1,354.88376
+2,Cascade,15,Entire home/apt,1,1,1,1,4,305,75,2,1125,1,129.39183
+3,Central Area,1,Entire home/apt,2,1,1,2,4,1215,55,3,1124,0,114.66488
+2,Downtown,1,Entire home/apt,1,1,1,1,4,916,75,5,1125,0,180.69617
+5,Downtown,1,Entire home/apt,4,1,2,2,4,602,129,2,1125,1,331.80396
+2,University District,1,Entire home/apt,1,1,1,1,4,1206,50,1,1125,0,121.04164
+6,Beacon Hill,18,Entire home/apt,4,1,2,2,4,877,125,1,1125,0,139.5466
+2,Capitol Hill,11,Private room,2,1,1,1,4,1474,50,2,1125,1,100.82896
+6,Downtown,13,Entire home/apt,1,1,2,2,4,97,130,2,180,0,135.27673
+4,Other neighborhoods,11,Entire home/apt,7,2,4,4,4,759,445,28,90,1,112.29261
+6,Downtown,1,Entire home/apt,1,2,2,4,4,392,135,3,1125,1,432.2295
+3,Other neighborhoods,11,Private room,1,2,1,1,4,1165,25,1,365,1,69.586555
+6,Central Area,11,Entire home/apt,4,1,2,10,4,1158,75,2,1125,1,184.71857
+4,Queen Anne,1,Entire home/apt,2,1,1,3,4,1263,160,1,29,1,216.73424
+2,Queen Anne,11,Private room,1,1,1,1,4,1392,0,3,14,0,75.283226
+6,Delridge,11,Private room,4,1,2,4,4,339,0,2,28,0,170.92657
+5,Downtown,1,Entire home/apt,1,1,2,2,4,906,60,2,1125,1,175.72441
+2,Capitol Hill,1,Entire home/apt,2,1,0,1,4,581,50,1,1125,1,181.65005
+7,Other neighborhoods,11,Entire home/apt,2,1,2,2,4,1046,60,2,14,0,121.18974
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,238,125,2,365,0,95.50503
+2,Beacon Hill,11,Private room,1,1,1,1,4,1510,0,2,1125,0,70.533226
+4,Central Area,1,Entire home/apt,4,1,1,2,4,1173,70,2,1125,0,126.610245
+5,Downtown,1,Entire home/apt,4,2,2,2,4,753,129,2,1125,1,350.95996
+4,Queen Anne,1,Entire home/apt,1,1,1,2,4,190,35,2,5,0,84.06591
+7,Other neighborhoods,11,Entire home/apt,1,2,3,3,4,1240,125,2,200,1,239.03203
+6,Delridge,18,Entire home/apt,4,2,2,3,4,198,140,2,180,0,158.9605
+8,Cascade,1,Entire home/apt,1,1,2,5,4,456,175,3,1125,0,298.00922
+2,University District,11,Private room,1,1,1,1,4,1576,30,1,21,1,81.35504
+2,Capitol Hill,11,Private room,2,1,1,2,4,169,30,1,14,0,69.49242
+2,Other neighborhoods,10,Entire home/apt,1,1,1,1,4,709,55,1,90,0,114.12932
+5,Downtown,7,Entire home/apt,2,2,2,3,4,1232,60,3,1125,0,217.21837
+2,Capitol Hill,9,Private room,1,1,1,1,4,1413,30,1,30,0,74.81223
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,1220,50,2,40,1,142.36076
+4,West Seattle,10,Entire home/apt,2,1,0,2,4,1501,40,2,30,1,86.68512
+4,Other neighborhoods,9,Entire home/apt,1,1,2,2,4,658,50,2,1125,0,135.93488
+2,Ballard,9,Entire home/apt,2,1,1,1,4,452,75,3,1125,0,118.97566
+6,Other neighborhoods,11,Entire home/apt,6,2,3,3,4,248,313,2,1125,1,123.77193
+4,Ballard,8,Entire home/apt,1,1,2,2,4,1146,60,3,30,0,126.61993
+2,Magnolia,18,Private room,1,1,1,1,4,696,20,1,1125,0,84.465355
+2,Beacon Hill,11,Shared room,1,1,1,1,4,1437,10,1,1125,0,25.826672
+4,Other neighborhoods,1,Entire home/apt,2,1,1,2,4,650,0,3,90,0,111.15828
+2,Downtown,1,Entire home/apt,2,1,1,1,4,405,100,3,30,1,436.36447
+7,Central Area,18,Entire home/apt,4,1,2,4,4,201,90,1,365,1,167.01231
+2,Rainier Valley,9,Entire home/apt,1,1,1,1,4,1446,50,2,30,1,99.4757
+3,Queen Anne,1,Entire home/apt,2,1,1,1,4,687,25,1,10,0,90.558624
+6,Other neighborhoods,10,Entire home/apt,6,1,1,2,4,349,85,2,12,1,189.1939
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1498,0,1,7,1,60.217228
+2,Downtown,1,Entire home/apt,3,1,0,1,4,587,47,1,90,1,225.34294
+4,Cascade,1,Entire home/apt,1,2,2,2,4,720,230,30,1125,0,219.05344
+2,University District,11,Private room,1,1,1,1,4,76,20,1,21,1,60.604847
+2,Downtown,1,Entire home/apt,2,1,0,1,4,12,0,2,1125,1,157.45517
+20,Central Area,11,Entire home/apt,12,3,6,10,4,206,200,1,365,1,575.1185
+8,Other neighborhoods,11,Entire home/apt,6,2,4,6,4,1003,140,2,31,0,226.24927
+2,Central Area,18,Private room,2,1,1,1,4,955,25,1,5,0,68.87451
+2,Other neighborhoods,11,Private room,1,2,1,1,4,1569,20,1,21,1,59.24142
+3,Other neighborhoods,1,Entire home/apt,2,1,1,1,4,98,30,22,1125,0,106.27705
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1023,0,1,3,1,62.50286
+9,Capitol Hill,18,Entire home/apt,4,2,2,3,4,1151,65,2,25,0,212.38202
+2,Cascade,15,Entire home/apt,1,1,1,1,4,295,75,2,1125,1,129.39183
+8,Ballard,11,Entire home/apt,6,2,3,3,4,1082,100,3,1125,1,256.03336
+16,Ballard,11,Entire home/apt,6,2,6,9,4,818,215,1,365,1,320.12842
+2,Delridge,17,Entire home/apt,1,1,0,1,4,93,0,1,1125,1,77.36643
+2,Downtown,1,Entire home/apt,1,1,1,1,4,914,75,30,1125,0,155.83978
+8,Central Area,11,Entire home/apt,1,2,3,4,4,351,120,1,1125,1,302.92923
+5,Other neighborhoods,1,Entire home/apt,5,1,2,3,4,401,100,1,1125,1,233.10263
+1,Other neighborhoods,11,Private room,1,3,1,1,4,40,10,3,21,0,54.53864
+4,Capitol Hill,1,Entire home/apt,2,1,1,2,4,1328,50,2,29,1,139.58113
+2,Other neighborhoods,11,Entire home/apt,1,1,1,1,4,1185,0,1,1125,1,95.48473
+3,Ballard,1,Entire home/apt,2,1,1,3,4,135,80,2,1125,0,129.5499
+2,Downtown,7,Entire home/apt,2,2,1,1,4,607,150,6,1125,0,156.0696
+8,West Seattle,11,Entire home/apt,5,2,4,5,4,246,150,1,28,0,276.5207
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,611,25,1,30,1,97.48875
+8,Rainier Valley,11,Entire home/apt,1,3,4,6,4,355,499,2,1125,0,534.9697
+4,Capitol Hill,18,Entire home/apt,2,2,2,0,4,813,70,2,14,1,219.4013
+2,Queen Anne,11,Entire home/apt,2,1,1,1,4,214,75,1,1124,1,106.46057
+1,Capitol Hill,11,Shared room,1,1,1,1,4,1577,15,1,21,1,36.457592
+2,Downtown,7,Entire home/apt,1,1,0,1,4,547,90,4,180,1,144.88744
+7,Other neighborhoods,11,Entire home/apt,4,1,3,5,4,684,150,2,1125,0,204.17073
+4,Ballard,1,Entire home/apt,2,1,1,1,4,1267,80,2,1125,1,153.11348
+4,Downtown,15,Entire home/apt,2,1,1,2,4,230,62,1,14,1,110.7105
+7,Downtown,13,Entire home/apt,2,1,0,3,4,89,50,1,365,0,121.43829
+4,Downtown,1,Entire home/apt,2,1,1,2,4,1421,25,1,1125,0,116.85201
+6,Rainier Valley,1,Entire home/apt,4,1,2,3,4,236,150,3,1125,1,234.65404
+7,Capitol Hill,10,Entire home/apt,1,1,2,2,4,152,100,2,30,1,163.30695
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,697,35,1,60,1,109.28223
+2,University District,11,Private room,1,2,1,1,4,1576,20,1,21,1,81.768616
+2,Downtown,13,Entire home/apt,2,1,1,1,4,755,85,3,1125,1,159.2399
+3,Other neighborhoods,9,Entire home/apt,2,1,1,1,4,249,40,2,31,1,81.91127
+5,Capitol Hill,7,Entire home/apt,1,1,2,2,4,542,50,1,90,1,130.87903
+2,Beacon Hill,7,Private room,1,1,1,1,4,1332,30,1,4,0,66.46213
+8,Magnolia,11,Entire home/apt,4,2,2,10,4,557,180,2,1125,1,202.56311
+4,Beacon Hill,9,Entire home/apt,2,1,1,2,4,1031,50,1,1125,1,110.937904
+6,Rainier Valley,4,Entire home/apt,1,1,2,2,4,1503,100,1,30,1,164.89229
+2,Other neighborhoods,18,Private room,2,1,1,1,4,1154,30,2,1125,0,69.440895
+4,Downtown,15,Entire home/apt,1,2,1,1,4,844,50,3,1125,1,175.39482
+4,Other neighborhoods,9,Entire home/apt,2,1,1,1,4,1429,50,1,1125,0,111.90045
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,1219,50,2,12,1,158.59781
+7,Delridge,10,Entire home/apt,7,1,2,4,4,207,100,1,31,1,189.64276
+4,Other neighborhoods,9,Entire home/apt,3,1,1,2,4,1108,25,2,1125,1,104.7703
+4,West Seattle,18,Entire home/apt,4,2,2,2,4,480,160,1,14,0,253.39876
+6,University District,1,Entire home/apt,4,1,2,3,4,1197,100,1,1125,0,167.59862
+4,Downtown,1,Entire home/apt,2,1,0,1,4,595,60,1,30,1,182.91928
+2,Downtown,1,Entire home/apt,1,1,1,1,4,1340,25,2,1125,0,134.70189
+8,Central Area,11,Entire home/apt,1,1,3,4,4,540,150,2,180,1,253.97481
+4,Rainier Valley,11,Entire home/apt,4,1,2,2,4,674,35,2,1125,0,118.74888
+2,Downtown,1,Entire home/apt,2,1,0,1,4,1305,75,1,120,1,150.23184
+2,Magnolia,11,Private room,1,1,1,1,4,371,0,2,1125,1,85.280174
+3,Downtown,1,Entire home/apt,1,1,1,1,4,390,39,4,1125,1,175.3886
+4,Rainier Valley,9,Entire home/apt,1,1,1,2,4,1004,75,2,1125,1,122.26992
+2,Downtown,1,Entire home/apt,1,1,0,1,4,912,75,5,120,0,143.78198
+5,Other neighborhoods,11,Entire home/apt,2,2,3,3,4,1034,100,4,1125,0,185.25764
+1,Downtown,14,Shared room,1,2,1,1,4,786,10,1,1125,1,44.258278
+2,Other neighborhoods,10,Entire home/apt,1,1,0,1,4,1537,60,1,30,0,87.04923
+2,Northgate,11,Private room,1,1,1,1,4,775,0,1,7,1,81.095634
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,738,35,2,29,0,86.48581
+4,Central Area,7,Entire home/apt,2,1,1,2,4,888,125,30,1125,0,124.65254
+3,Rainier Valley,11,Private room,2,1,1,2,4,358,0,1,1125,0,80.92594
+5,Downtown,1,Entire home/apt,2,1,1,2,4,1221,70,2,1125,1,182.34573
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1542,25,1,1125,0,61.30129
+2,Central Area,11,Private room,1,1,1,1,4,1410,0,1,1125,0,73.9037
+2,Other neighborhoods,11,Private room,1,1,1,1,4,1205,25,2,14,0,70.77899
+4,Ballard,1,Entire home/apt,2,1,1,3,4,1047,50,1,12,0,126.09715
+4,Rainier Valley,9,Entire home/apt,2,1,1,2,4,179,0,2,1125,1,105.62818
+4,Beacon Hill,9,Entire home/apt,1,2,2,2,4,1290,100,3,30,0,155.41904
+12,Rainier Valley,18,Entire home/apt,8,2,4,6,4,120,252,1,365,1,605.8788
+5,Central Area,18,Entire home/apt,5,2,3,3,4,388,120,2,15,0,248.39232
+6,Capitol Hill,11,Entire home/apt,1,1,2,4,4,213,50,2,21,1,159.73552
+4,Downtown,1,Entire home/apt,4,2,2,2,4,1302,120,3,1125,1,304.10028
+6,Cascade,1,Entire home/apt,1,2,2,4,4,845,99,1,1125,1,273.2324
+3,West Seattle,9,Entire home/apt,2,1,1,1,4,429,50,2,4,0,103.278755
+3,Downtown,7,Entire home/apt,2,1,0,2,4,145,60,3,1124,1,117.81968
+2,Northgate,11,Private room,1,1,1,1,4,991,15,1,365,0,55.647266
+3,West Seattle,9,Entire home/apt,1,1,1,1,4,1155,30,2,30,1,87.66562
+2,Other neighborhoods,11,Private room,2,1,1,1,4,568,0,1,30,0,76.241844
+2,Central Area,18,Entire home/apt,2,1,0,1,4,1125,35,1,90,1,99.06102
+6,Other neighborhoods,11,Entire home/apt,6,2,3,4,4,226,200,7,14,0,336.64313
+2,Queen Anne,1,Entire home/apt,1,1,1,1,4,73,50,1,1125,0,108.37891
+2,West Seattle,10,Entire home/apt,2,1,0,1,4,250,40,2,90,0,79.401184
+4,Central Area,13,Entire home/apt,2,1,1,2,4,579,0,2,1124,0,180.82031
+2,West Seattle,11,Entire home/apt,2,2,1,1,4,990,90,2,50,0,108.433586
+4,Downtown,7,Entire home/apt,4,1,1,2,4,161,125,1,365,1,123.170944
+4,Cascade,7,Entire home/apt,4,1,1,1,4,1012,50,2,1125,0,144.21748
+2,Rainier Valley,1,Entire home/apt,2,1,1,1,4,728,75,4,7,0,110.76272
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,1195,50,2,7,0,102.86525
+3,Queen Anne,1,Entire home/apt,2,1,1,2,4,406,35,3,30,1,91.11747
+2,Downtown,1,Entire home/apt,2,1,0,1,4,918,50,1,1125,1,137.28247
+2,Rainier Valley,9,Entire home/apt,1,1,1,1,4,1089,25,14,60,1,62.37625
+4,Central Area,4,Entire home/apt,4,1,2,3,4,222,75,2,30,1,132.44923
+3,Queen Anne,9,Entire home/apt,2,1,0,1,4,1493,10,2,7,1,86.432106
+4,Capitol Hill,11,Entire home/apt,1,1,2,2,4,255,90,2,8,0,120.27118
+2,Queen Anne,18,Private room,1,1,1,1,4,1132,109,2,14,0,198.04774
+2,Other neighborhoods,11,Entire home/apt,1,1,1,1,4,28,25,2,1125,1,84.142555
+4,Other neighborhoods,4,Entire home/apt,1,1,1,2,4,514,75,2,1125,0,120.1792
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1329,65,3,1125,0,123.32069
+14,West Seattle,11,Entire home/apt,10,3,4,4,4,346,275,3,95,0,616.4216
+4,Downtown,7,Entire home/apt,2,1,1,2,4,596,145,1,29,0,158.58206
+2,Rainier Valley,11,Private room,1,1,1,1,4,7,35,2,1125,0,59.97136
+4,Other neighborhoods,2,Private room,1,1,1,3,4,156,0,1,20,0,69.96434
+3,Downtown,1,Entire home/apt,1,1,1,1,4,892,60,2,1125,1,169.97098
+4,Downtown,13,Entire home/apt,2,1,0,2,4,623,85,2,60,0,325.2982
+2,Beacon Hill,11,Private room,2,1,1,1,4,20,15,1,1125,1,56.012352
+8,Queen Anne,11,Entire home/apt,4,1,3,3,4,1201,75,1,90,0,240.01341
+2,Other neighborhoods,9,Entire home/apt,1,1,1,0,4,14,39,1,10,0,86.45752
+2,Capitol Hill,11,Private room,1,1,1,1,4,1566,25,1,21,1,74.26788
+6,Other neighborhoods,9,Entire home/apt,3,1,2,3,4,1508,88,2,10,0,196.37909
+6,Other neighborhoods,1,Entire home/apt,2,1,2,3,4,1148,90,28,1125,0,161.86798
+6,Downtown,1,Entire home/apt,1,2,2,3,4,333,99,1,1125,1,974.7193
+6,Queen Anne,1,Entire home/apt,4,1,2,3,4,197,130,2,1125,1,208.52948
+5,Downtown,1,Entire home/apt,4,2,2,2,4,598,129,2,1125,1,447.25397
+3,Cascade,11,Entire home/apt,2,2,2,3,4,770,75,1,60,0,200.90648
+6,Other neighborhoods,11,Entire home/apt,6,1,3,0,4,247,150,2,1125,0,231.958
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1145,15,5,1125,0,74.41372
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,1101,60,2,12,1,155.85414
+3,Queen Anne,1,Entire home/apt,2,1,1,1,4,1103,60,1,1125,1,121.97177
+8,Central Area,18,Entire home/apt,6,2,3,4,4,114,125,2,1124,0,249.11023
+3,Downtown,1,Entire home/apt,2,1,0,1,4,747,89,2,1125,1,147.1354
+4,Central Area,7,Entire home/apt,2,1,2,2,4,1224,150,30,90,0,131.82103
+2,Delridge,18,Private room,1,1,1,1,4,868,50,1,1125,1,75.64707
+2,Downtown,13,Entire home/apt,2,1,0,1,4,1523,70,2,1125,0,129.4015
+2,Other neighborhoods,1,Entire home/apt,1,1,1,1,4,693,40,2,1125,1,102.73311
+4,Other neighborhoods,11,Entire home/apt,2,1,2,2,4,172,50,1,28,0,112.25827
+2,Capitol Hill,1,Entire home/apt,1,1,0,1,4,1324,50,2,12,1,156.65556
+2,Other neighborhoods,9,Entire home/apt,1,1,1,1,4,685,75,4,180,0,120.85142
+4,Downtown,7,Entire home/apt,2,1,0,3,4,164,65,1,27,1,82.664246
+4,West Seattle,11,Entire home/apt,1,2,2,4,4,1060,100,2,30,0,173.81062
+4,Downtown,1,Entire home/apt,2,1,1,1,4,395,90,2,1125,0,191.87868
+3,Magnolia,11,Entire home/apt,1,1,2,2,4,1356,100,1,1125,0,136.85298
+2,West Seattle,2,Private room,1,1,1,1,4,941,0,2,1125,0,142.55544
+2,Cascade,1,Entire home/apt,2,1,1,1,4,1550,0,1,1125,1,195.73894
+2,Downtown,1,Entire home/apt,1,1,0,1,4,1310,75,30,1125,0,139.54573
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1488,20,1,1125,0,56.275528
+3,Downtown,1,Entire home/apt,2,1,1,1,4,599,89,2,1125,1,247.42513
+3,Cascade,1,Entire home/apt,1,1,1,1,4,719,55,1,1125,1,170.96867
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,749,75,2,1125,1,135.091
+3,Downtown,1,Entire home/apt,2,1,0,1,4,747,89,2,1125,1,147.1354
+6,Other neighborhoods,11,Entire home/apt,1,2,3,4,4,562,75,5,60,0,275.09015
+2,Capitol Hill,11,Private room,1,1,1,1,4,1467,35,1,7,1,74.294876
+2,Other neighborhoods,10,Entire home/apt,2,1,1,1,4,1198,60,2,30,1,97.51869
+8,Downtown,13,Entire home/apt,6,2,3,7,4,171,197,1,365,1,395.26434
+3,Downtown,7,Entire home/apt,2,1,1,2,4,814,100,3,1125,0,140.72078
+2,Capitol Hill,0,Private room,1,1,0,1,4,27,0,1,1125,1,67.715515
+6,Capitol Hill,1,Entire home/apt,4,1,2,3,4,512,85,2,1125,1,179.6751
+4,Downtown,7,Entire home/apt,1,1,1,1,4,243,135,2,1125,0,108.91805
+5,Delridge,9,Entire home/apt,1,1,2,2,4,1038,50,2,1125,1,112.4897
+2,Seward Park,11,Private room,1,1,1,1,4,64,15,1,21,1,49.85762
+3,West Seattle,1,Entire home/apt,1,1,0,2,4,644,25,2,28,0,104.84572
+6,Capitol Hill,11,Entire home/apt,2,2,2,3,4,118,43,2,1124,0,156.63156
+1,Capitol Hill,11,Private room,1,2,1,1,4,61,15,2,1125,0,58.570713
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1500,20,1,30,1,52.95135
+2,Central Area,10,Entire home/apt,2,1,1,1,4,35,20,3,90,1,91.80993
+2,West Seattle,11,Private room,2,2,1,1,4,1078,30,2,1125,0,84.35797
+3,Cascade,12,Entire home/apt,2,1,1,1,4,288,50,1,30,0,123.40813
+2,Lake City,11,Private room,1,1,1,1,4,1445,0,2,1125,0,100.67727
+3,Downtown,1,Entire home/apt,2,1,1,1,4,599,89,2,1125,1,247.42513
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,1274,75,7,150,0,113.54184
+4,Other neighborhoods,11,Entire home/apt,2,1,2,2,4,1269,100,2,365,0,123.238106
+2,Central Area,11,Private room,1,1,1,1,4,609,25,1,1125,0,87.49682
+2,Magnolia,11,Private room,1,1,1,1,4,864,0,1,29,1,89.793175
+4,Downtown,7,Entire home/apt,4,1,2,3,4,740,135,1,365,1,142.40213
+6,Central Area,11,Entire home/apt,1,2,3,3,4,835,150,1,30,1,222.02173
+5,Downtown,1,Entire home/apt,4,2,2,2,4,599,129,2,1125,1,447.25397
+2,Other neighborhoods,11,Private room,2,1,1,1,4,181,40,1,7,0,53.03305
+1,Other neighborhoods,11,Private room,1,1,1,1,4,1472,35,3,90,0,60.018894
+4,Downtown,7,Entire home/apt,2,1,1,2,4,605,65,3,100,0,174.14981
+4,Other neighborhoods,1,Entire home/apt,1,1,2,2,4,500,80,2,1125,1,145.77245
+6,Rainier Valley,11,Entire home/apt,2,1,1,3,4,1168,60,2,1125,0,116.59373
+2,Downtown,1,Entire home/apt,2,1,0,1,4,706,50,2,1125,1,176.9706
+3,Downtown,7,Entire home/apt,2,1,1,1,4,703,125,1,28,0,144.77228
+4,Ballard,1,Entire home/apt,3,1,1,3,4,502,95,3,1125,0,128.37477
+2,Ballard,18,Private room,1,1,1,1,4,204,30,1,1125,0,66.122894
+4,Rainier Valley,9,Entire home/apt,2,1,1,3,4,780,30,2,10,1,90.359985
+6,Downtown,1,Entire home/apt,1,2,2,3,4,332,109,2,1125,1,821.7047
+2,Queen Anne,1,Entire home/apt,1,1,1,1,4,881,40,1,21,1,87.25249
+4,Ballard,7,Entire home/apt,2,1,2,2,4,1458,80,2,1125,0,139.0733
+8,Delridge,11,Entire home/apt,6,2,3,4,4,815,25,1,1125,0,207.5431
+2,Other neighborhoods,10,Entire home/apt,1,1,0,1,4,1575,0,2,30,1,89.305786
+3,Other neighborhoods,11,Private room,2,1,1,2,4,1459,40,2,7,0,66.55685
+2,Delridge,18,Private room,1,1,1,1,4,533,15,2,1125,0,48.244625
+4,Downtown,1,Entire home/apt,1,1,1,1,4,1298,80,1,1125,1,184.18005
+4,Capitol Hill,11,Entire home/apt,1,2,2,2,4,1069,350,1,1125,0,482.90796
+1,Capitol Hill,11,Shared room,1,0,1,1,4,48,75,3,90,0,46.83638
+2,Magnolia,18,Private room,1,1,1,1,4,975,10,1,1125,0,63.832848
+4,Downtown,1,Entire home/apt,2,1,1,2,4,769,45,1,1125,1,125.36003
+3,Other neighborhoods,11,Entire home/apt,2,1,1,2,4,235,200,5,1125,0,189.70001
+2,Rainier Valley,19,Private room,1,1,1,1,4,1539,25,2,30,0,62.250504
+1,Cascade,1,Private room,1,1,1,1,2,1557,70,2,180,0,140.34317
+2,Cascade,15,Entire home/apt,1,1,1,1,4,297,75,2,1125,1,129.39183
+6,Other neighborhoods,11,Entire home/apt,4,1,3,3,4,1519,115,2,1125,0,159.87068
+4,Beacon Hill,11,Private room,1,1,1,2,4,857,50,1,1125,1,81.65521
+5,Capitol Hill,11,Entire home/apt,4,1,2,2,4,1483,60,1,31,1,142.46631
+3,Central Area,18,Private room,2,1,1,1,4,788,40,1,15,1,69.91802
+3,Downtown,1,Entire home/apt,2,1,1,1,4,600,89,2,1125,1,247.42513
+2,Queen Anne,15,Entire home/apt,2,1,1,0,4,891,75,2,1125,1,136.4698
+3,University District,1,Entire home/apt,1,1,1,1,4,386,50,2,1125,0,115.00393
+4,Lake City,11,Entire home/apt,1,1,2,2,4,994,45,2,30,0,165.46742
+1,Other neighborhoods,18,Private room,1,1,1,1,4,1389,35,3,1125,1,59.096565
+5,Beacon Hill,11,Entire home/apt,1,2,4,5,4,1438,150,1,14,0,238.83543
+2,University District,1,Entire home/apt,1,1,0,1,4,779,60,2,30,1,89.044846
+2,West Seattle,11,Private room,1,1,1,1,4,1475,20,2,12,1,82.51593
+2,Northgate,1,Entire home/apt,2,1,1,1,4,823,40,1,90,0,95.60972
+5,Magnolia,11,Entire home/apt,4,2,2,2,4,237,50,2,1125,1,200.38622
+2,Other neighborhoods,9,Entire home/apt,2,1,1,1,4,1183,40,1,21,1,80.53358
+3,Queen Anne,11,Entire home/apt,1,1,1,1,4,645,125,1,365,0,178.37965
+3,Central Area,11,Private room,2,1,1,1,4,899,40,1,1125,1,76.76518
+2,Central Area,11,Entire home/apt,1,1,0,1,4,1420,40,2,5,0,72.58609
+2,Downtown,1,Entire home/apt,1,1,1,1,4,541,10,1,1125,1,156.34425
+5,Other neighborhoods,11,Entire home/apt,2,1,2,2,4,1027,75,3,31,1,138.54196
+4,Downtown,7,Entire home/apt,1,1,1,2,4,1335,98,1,1125,0,273.1673
+4,Rainier Valley,11,Private room,2,2,1,1,4,1087,5,1,1125,0,208.01639
+4,Downtown,7,Entire home/apt,1,1,1,2,4,195,107,2,365,1,156.89394
+4,Other neighborhoods,11,Entire home/apt,2,1,1,1,4,1076,40,1,30,0,105.33705
+2,Downtown,1,Entire home/apt,2,1,1,1,4,317,99,1,365,1,868.10565
+2,Beacon Hill,11,Private room,1,1,1,2,4,1456,0,2,5,0,65.75847
+4,Other neighborhoods,1,Entire home/apt,1,1,0,2,4,724,50,1,1125,1,143.66028
+5,Downtown,1,Entire home/apt,1,1,1,2,4,904,0,2,1125,0,178.64922
+1,Rainier Valley,8,Private room,1,1,1,1,4,1379,10,1,14,1,41.32034
+4,Central Area,9,Entire home/apt,3,1,2,2,4,963,40,1,32,0,106.3049
+8,Capitol Hill,11,Entire home/apt,8,3,5,5,4,133,225,3,1125,0,535.83
+6,Other neighborhoods,11,Entire home/apt,3,1,3,3,4,1133,50,2,1125,1,145.11324
+2,Capitol Hill,1,Entire home/apt,1,1,1,1,4,479,40,2,31,1,97.89651
+3,Lake City,11,Entire home/apt,2,1,2,2,4,710,125,2,1125,0,163.89766
+2,Capitol Hill,11,Private room,1,2,1,1,4,731,30,3,120,0,81.20284
+5,West Seattle,11,Entire home/apt,6,1,2,2,4,1156,75,1,1125,0,135.8273
+2,Other neighborhoods,1,Entire home/apt,2,1,0,2,4,790,30,1,45,1,79.76909
+6,Magnolia,11,Entire home/apt,5,2,2,5,4,488,150,5,1125,0,277.22232
+3,Downtown,1,Entire home/apt,2,1,1,2,4,1245,80,1,29,1,198.135
+1,Downtown,7,Private room,1,1,1,1,4,86,25,1,1125,0,75.66548
+5,Cascade,1,Entire home/apt,4,2,2,2,4,601,129,2,1125,1,249.9511
+2,Downtown,1,Entire home/apt,2,1,1,1,4,739,75,30,1125,0,147.835
+2,Delridge,18,Private room,1,1,1,1,4,1416,15,1,6,0,46.328213
+2,Capitol Hill,7,Entire home/apt,1,1,1,1,4,1252,50,4,21,0,115.34825
+4,West Seattle,9,Entire home/apt,2,1,1,3,4,276,50,3,120,1,125.41928
+2,University District,11,Private room,1,1,1,1,4,228,30,1,3,0,54.429565
+4,Central Area,18,Entire home/apt,4,1,2,2,4,654,80,3,1125,0,162.42401
+6,Ballard,11,Entire home/apt,4,1,2,3,4,125,100,2,1125,0,171.98291
+2,Capitol Hill,7,Entire home/apt,1,1,1,1,4,1484,75,3,1125,0,118.17085
+5,Downtown,1,Entire home/apt,4,1,2,2,4,602,129,2,1125,1,331.80396
+4,Northgate,9,Private room,2,1,1,2,4,178,15,2,14,1,64.854485
+3,West Seattle,18,Private room,2,1,1,1,4,95,54,1,1125,1,88.08775
+2,Downtown,1,Private room,1,1,1,1,3,1223,0,3,7,1,165.40616
+4,University District,1,Entire home/apt,1,1,1,2,4,1234,60,5,1125,0,282.3122
+3,Downtown,7,Entire home/apt,3,1,1,1,4,905,135,2,30,1,138.93777
+6,Ballard,1,Entire home/apt,2,1,1,3,4,36,25,1,30,1,93.20667
+2,Queen Anne,11,Private room,1,1,1,1,4,5,25,2,1125,1,74.92691
+6,Other neighborhoods,2,Private room,1,1,1,6,4,735,0,1,7,0,165.7175
+4,Queen Anne,9,Entire home/apt,2,1,1,2,4,1093,50,2,1125,1,128.28635
+8,West Seattle,11,Entire home/apt,1,3,5,5,4,109,125,2,1125,0,305.2135
+6,Beacon Hill,9,Entire home/apt,1,1,2,3,4,1351,25,1,14,1,228.20119
+3,Capitol Hill,1,Entire home/apt,1,1,1,2,4,263,80,2,1125,1,127.48925
+6,Downtown,7,Entire home/apt,1,2,2,2,4,926,135,2,180,1,202.41351
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,753,89,21,1125,1,163.10098
+3,Downtown,1,Entire home/apt,2,1,1,1,4,602,89,2,1125,1,247.42513
+4,Central Area,1,Entire home/apt,1,1,0,2,4,1382,40,1,1125,1,79.524086
+7,Other neighborhoods,18,Entire home/apt,1,1,3,4,4,443,165,2,1125,1,225.79501
+1,Downtown,1,Shared room,1,1,1,1,2,1538,15,2,360,0,68.27465
+4,University District,1,Entire home/apt,4,1,1,4,4,265,243,2,1125,1,149.8198
+6,Capitol Hill,11,Entire home/apt,1,3,3,3,4,695,75,3,1125,1,263.59113
+7,Central Area,11,Entire home/apt,2,2,3,2,4,573,100,5,1125,0,258.47992
+4,Capitol Hill,1,Entire home/apt,1,2,2,2,4,1069,0,1,1125,0,176.72968
+2,Cascade,15,Entire home/apt,1,1,1,1,4,299,75,1,1125,1,111.816925
+3,Downtown,1,Entire home/apt,2,1,1,1,4,598,89,2,1125,1,247.42513
+4,Lake City,11,Private room,1,1,1,2,4,1381,29,1,7,1,31.27603
+5,Beacon Hill,11,Entire home/apt,2,1,2,2,4,565,85,2,1125,0,121.53305
+6,Downtown,1,Entire home/apt,6,2,2,3,4,173,145,1,365,1,356.28696
+6,West Seattle,11,Entire home/apt,6,3,3,3,0,482,160,2,7,0,350.15695
+6,Central Area,18,Entire home/apt,4,2,2,2,4,799,150,2,1125,1,170.02928
+2,Downtown,1,Entire home/apt,1,1,1,1,4,146,75,30,300,0,138.29575
+4,Downtown,7,Entire home/apt,1,1,1,1,4,99,107,2,365,0,146.6623
+2,Rainier Valley,1,Entire home/apt,1,1,0,1,4,923,50,1,1125,0,101.96792
+2,Queen Anne,1,Private room,1,1,1,1,4,1583,25,1,21,1,77.219284
+2,Beacon Hill,18,Entire home/apt,2,1,1,1,2,183,50,2,1125,0,103.2786
+6,Central Area,11,Entire home/apt,1,1,3,3,4,1470,100,2,1125,0,156.02408
+3,Downtown,1,Entire home/apt,2,1,1,1,4,744,89,2,1125,1,179.16344
+5,Downtown,7,Entire home/apt,2,1,1,1,4,707,60,1,90,0,142.14409
+2,Beacon Hill,16,Entire home/apt,1,0,1,2,4,1378,0,1,1125,0,96.122505
+4,Other neighborhoods,9,Entire home/apt,4,1,2,2,4,1556,100,2,1125,0,126.18043
+2,West Seattle,1,Private room,2,1,1,1,4,714,25,2,30,0,74.60825
+3,Central Area,1,Entire home/apt,2,1,1,1,4,1202,25,2,1125,1,107.23169
+3,Queen Anne,1,Entire home/apt,1,1,1,1,4,582,60,1,1125,1,126.47619
+2,Rainier Valley,11,Private room,1,1,1,1,4,1171,50,1,42,1,85.34632
+2,Cascade,15,Entire home/apt,1,1,1,1,4,300,75,2,1125,1,129.39183
+2,Central Area,4,Entire home/apt,2,1,0,1,4,1110,50,3,27,1,108.89155
+2,Downtown,1,Entire home/apt,2,1,0,1,4,748,75,30,1125,0,113.87351
+5,Queen Anne,11,Entire home/apt,2,1,3,3,4,580,20,2,60,0,197.1773
+4,West Seattle,11,Entire home/apt,1,2,1,3,4,218,90,2,90,1,126.52573
+4,Other neighborhoods,4,Entire home/apt,2,1,2,2,4,896,150,1,29,0,119.7746
+5,Rainier Valley,18,Entire home/apt,2,1,2,3,4,1210,0,4,90,0,130.75342
+2,West Seattle,9,Entire home/apt,2,1,0,1,4,1008,50,2,1125,1,108.3349
+2,Beacon Hill,11,Entire home/apt,1,1,1,1,4,637,75,2,1125,0,141.23723
+2,Capitol Hill,1,Entire home/apt,2,1,1,1,4,659,50,3,1125,0,132.47662
+8,Other neighborhoods,11,Entire home/apt,6,2,3,3,4,633,99,28,1124,0,213.16614
+2,Downtown,1,Entire home/apt,1,1,0,1,4,318,100,2,1125,1,378.86572
+4,Cascade,1,Entire home/apt,1,1,1,1,4,404,79,1,1125,0,156.61328
+4,Central Area,9,Entire home/apt,1,1,1,2,4,426,0,3,14,1,128.44159
+2,West Seattle,10,Entire home/apt,1,1,1,1,4,18,30,2,1125,0,90.858315
+2,Cascade,15,Entire home/apt,1,1,1,1,4,298,75,2,1125,1,129.39183
+3,Capitol Hill,1,Entire home/apt,2,1,1,1,4,753,89,21,1125,1,163.10098
+4,Downtown,7,Entire home/apt,2,1,0,3,4,920,65,1,27,1,111.759315
+5,Capitol Hill,7,Entire home/apt,1,2,2,4,4,188,79,3,1125,1,216.1968
+4,University District,1,Entire home/apt,4,1,1,1,4,1319,60,2,1125,1,117.772804
+2,Delridge,11,Private room,1,1,1,1,4,863,8,1,365,0,46.612347
+3,Downtown,1,Entire home/apt,1,1,1,1,4,892,60,2,1125,1,169.97098
+2,Beacon Hill,11,Private room,1,1,1,1,4,1124,15,1,7,0,58.246822
+4,Capitol Hill,1,Entire home/apt,1,2,2,2,4,760,95,3,1125,1,174.68073
+5,Central Area,4,Entire home/apt,4,1,3,3,4,592,100,2,30,0,162.167
+4,Rainier Valley,11,Entire home/apt,1,1,2,2,4,949,50,3,1125,1,118.66088
+2,Other neighborhoods,11,Entire home/apt,2,1,1,1,4,260,20,2,7,0,77.634605
+2,Beacon Hill,1,Private room,1,1,1,1,4,85,30,30,300,0,58.348198
+3,University District,1,Entire home/apt,1,1,1,1,4,1044,60,2,1125,0,121.02654
+4,West Seattle,1,Entire home/apt,1,1,2,2,4,191,50,2,29,1,122.93544
+2,Other neighborhoods,11,Private room,1,1,1,1,4,616,25,1,29,0,74.69835
+4,Central Area,9,Entire home/apt,2,1,1,2,4,1434,75,3,1125,1,125.12058
+6,Northgate,11,Entire home/apt,4,2,3,3,4,344,100,3,1125,1,262.6189
